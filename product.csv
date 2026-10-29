@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,rating,discount,features
+1,HP Pavilion Plus 0001,Laptop,HP,61000,4.5,33,Intel Core i7 8GB RAM 256GB SSD
+2,Acer Nitro V 0002,Laptop,Acer,90000,4,24,Intel Core i5 8GB RAM 256GB SSD
+3,Google Pixel 8 0003,Smartphone,Google,47000,4.7,5,6GB RAM 512GB Storage 6.8-inch AMOLED 5G
+4,Boat Airdopes 141 0004,Headphones,Boat,14700,4.8,26,On-Ear Bluetooth 5.3 ANC Wireless
+5,Vivo Vivo V40 0005,Smartphone,Vivo,45000,4.7,34,8GB RAM 256GB Storage 6.8-inch AMOLED 5G
+6,ASUS VivoBook 15 0006,Laptop,ASUS,127000,4.4,27,Apple M3 32GB RAM 512GB SSD
+7,Google Pixel 8a 0007,Smartphone,Google,60000,4,28,4GB RAM 128GB Storage 6.1-inch AMOLED 5G
+8,Realme Realme 13 Pro 0008,Smartphone,Realme,93000,3.9,20,8GB RAM 64GB Storage 6.8-inch AMOLED 5G
+9,Vivo Vivo T3 0009,Smartphone,Vivo,119000,4.6,8,16GB RAM 128GB Storage 6.5-inch AMOLED 5G
+10,Samsung Galaxy A55 0010,Smartphone,Samsung,39000,4.8,25,12GB RAM 256GB Storage 6.1-inch AMOLED 5G
+11,OPPO A3 Pro 0011,Smartphone,OPPO,29000,4,40,12GB RAM 128GB Storage 6.5-inch AMOLED 5G
+12,MSI Cyborg 15 0012,Laptop,MSI,91000,4.9,9,Intel Core Ultra 5 32GB RAM 512GB SSD
+13,HP Pavilion 15 0013,Laptop,HP,75000,4.7,18,Apple M2 8GB RAM 256GB SSD
+14,ASUS ROG Strix G16 0014,Laptop,ASUS,99000,4.9,32,AMD Ryzen 7 32GB RAM 512GB SSD
+15,JBL Tune 760NC 0015,Headphones,JBL,19700,4.2,34,TWS Bluetooth 5.3 ANC Wireless
+16,Xiaomi Redmi Note 13 Pro 0016,Smartphone,Xiaomi,119000,4.5,17,16GB RAM 64GB Storage 6.5-inch AMOLED 5G
+17,OnePlus OnePlus 12 0017,Smartphone,OnePlus,14000,3.8,28,16GB RAM 256GB Storage 6.7-inch AMOLED 5G
+18,OnePlus Buds Pro 2 0018,Headphones,OnePlus,6200,3.8,36,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+19,Boat Rockerz 450 0019,Headphones,Boat,11700,4,43,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+20,Dell Inspiron 14 0020,Laptop,Dell,130000,4.2,21,AMD Ryzen 5 32GB RAM 512GB SSD
+21,Dell Inspiron 14 0021,Laptop,Dell,176000,4,12,Intel Core i5 8GB RAM 512GB SSD
+22,Samsung Galaxy S24 FE 0022,Smartphone,Samsung,21000,4.3,22,4GB RAM 64GB Storage 6.5-inch AMOLED 5G
+23,Dell Inspiron 14 0023,Laptop,Dell,156000,4,20,AMD Ryzen 7 32GB RAM 1024GB SSD
+24,Apple AirPods 3 0024,Headphones,Apple,23700,4.2,34,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+25,Sony WH-1000XM5 0025,Headphones,Sony,22700,4.7,11,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+26,Google Pixel 8 0026,Smartphone,Google,47000,4.3,9,6GB RAM 512GB Storage 6.4-inch AMOLED 5G
+27,Apple MacBook Pro 14 0027,Laptop,Apple,173000,4.7,7,Apple M2 8GB RAM 256GB SSD
+28,Apple AirPods Pro 2 0028,Headphones,Apple,14700,4.7,8,On-Ear Bluetooth 5.3 Adaptive ANC Wireless
+29,Samsung Galaxy A35 0029,Smartphone,Samsung,66000,4.5,40,8GB RAM 512GB Storage 6.5-inch AMOLED 5G
+30,ASUS VivoBook S14 0030,Laptop,ASUS,49000,4.4,22,Intel Core i7 8GB RAM 512GB SSD
+31,Realme Realme GT 6 0031,Smartphone,Realme,79000,3.9,37,4GB RAM 512GB Storage 6.8-inch AMOLED 5G
+32,OnePlus OnePlus 12 0032,Smartphone,OnePlus,63000,3.8,20,16GB RAM 64GB Storage 6.4-inch AMOLED 5G
+33,HP Pavilion 15 0033,Laptop,HP,179000,4.3,34,AMD Ryzen 7 16GB RAM 1024GB SSD
+34,Realme Realme 13 Pro 0034,Smartphone,Realme,97000,4.5,34,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+35,Apple iPhone 15 0035,Smartphone,Apple,80000,4,21,12GB RAM 64GB Storage 6.1-inch AMOLED 5G
+36,Realme Realme GT 6 0036,Smartphone,Realme,32000,4.2,39,6GB RAM 256GB Storage 6.5-inch AMOLED 5G
+37,Acer Aspire 5 0037,Laptop,Acer,61000,4.8,9,Intel Core Ultra 5 32GB RAM 1024GB SSD
+38,Apple iPhone 13 0038,Smartphone,Apple,89000,4,26,6GB RAM 256GB Storage 6.5-inch AMOLED 5G
+39,Xiaomi Poco X6 0039,Smartphone,Xiaomi,93000,4.2,22,8GB RAM 64GB Storage 6.1-inch AMOLED 5G
+40,Realme Realme 13 Pro 0040,Smartphone,Realme,82000,4.5,40,8GB RAM 128GB Storage 6.7-inch AMOLED 5G
+41,Apple iPhone 15 Plus 0041,Smartphone,Apple,86000,4.4,32,16GB RAM 64GB Storage 6.5-inch AMOLED 5G
+42,Xiaomi Xiaomi 14 0042,Smartphone,Xiaomi,99000,4,11,4GB RAM 256GB Storage 6.4-inch AMOLED 5G
+43,Vivo Vivo V30 0043,Smartphone,Vivo,64000,3.7,26,6GB RAM 128GB Storage 6.4-inch AMOLED 5G
+44,Sennheiser Momentum 4 0044,Headphones,Sennheiser,7700,4.2,7,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+45,Apple AirPods Pro 2 0045,Headphones,Apple,15700,4,17,On-Ear Bluetooth 5.3 Adaptive ANC Wireless
+46,Xiaomi Redmi Note 14 0046,Smartphone,Xiaomi,63000,4.5,39,8GB RAM 256GB Storage 6.8-inch AMOLED 5G
+47,Samsung Galaxy S24 0047,Smartphone,Samsung,45000,3.7,32,8GB RAM 128GB Storage 6.8-inch AMOLED 5G
+48,Realme Realme Narzo 70 0048,Smartphone,Realme,85000,3.9,7,16GB RAM 64GB Storage 6.7-inch AMOLED 5G
+49,HP Victus 15 0049,Laptop,HP,119000,4.4,26,Intel Core i5 16GB RAM 512GB SSD
+50,OnePlus Nord Buds 2 0050,Headphones,OnePlus,26700,4.5,40,TWS Bluetooth 5.3 Adaptive ANC Wireless
+51,Vivo Vivo Y200 0051,Smartphone,Vivo,82000,4.7,24,6GB RAM 256GB Storage 6.7-inch AMOLED 5G
+52,Vivo Vivo T3 0052,Smartphone,Vivo,98000,4,35,12GB RAM 512GB Storage 6.7-inch AMOLED 5G
+53,Boat Rockerz 550 0053,Headphones,Boat,41700,4.4,10,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+54,Apple AirPods 2 0054,Headphones,Apple,2700,3.8,35,Over-Ear Bluetooth 5.2 ANC Wireless
+55,Apple MacBook Air 13 0055,Laptop,Apple,84000,4.6,17,Apple M2 16GB RAM 512GB SSD
+56,Dell Inspiron 14 0056,Laptop,Dell,62000,4.6,12,Intel Core i5 32GB RAM 1024GB SSD
+57,OPPO Reno 12 0057,Smartphone,OPPO,70000,3.9,34,16GB RAM 128GB Storage 6.1-inch AMOLED 5G
+58,Acer Swift Go 14 0058,Laptop,Acer,164000,4.2,34,Apple M3 16GB RAM 1024GB SSD
+59,Dell G15 0059,Laptop,Dell,98000,4.7,13,Apple M3 16GB RAM 512GB SSD
+60,Noise Buds VS104 0060,Headphones,Noise,19200,4,26,On-Ear Bluetooth 5.3 ANC Wireless
+61,Apple iPhone 15 Plus 0061,Smartphone,Apple,100000,3.9,18,6GB RAM 128GB Storage 6.7-inch AMOLED 5G
+62,Vivo Vivo T3 0062,Smartphone,Vivo,19000,3.9,31,16GB RAM 512GB Storage 6.7-inch AMOLED 5G
+63,Samsung Galaxy M55 0063,Smartphone,Samsung,57000,4.1,29,12GB RAM 512GB Storage 6.1-inch AMOLED 5G
+64,Sennheiser Momentum 4 0064,Headphones,Sennheiser,28700,4.3,29,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+65,Vivo Vivo V30 0065,Smartphone,Vivo,80000,3.7,30,12GB RAM 128GB Storage 6.8-inch AMOLED 5G
+66,MSI Modern 14 0066,Laptop,MSI,69000,4.7,10,AMD Ryzen 5 8GB RAM 1024GB SSD
+67,Vivo Vivo T3 0067,Smartphone,Vivo,55000,4.6,29,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+68,Vivo Vivo T3 0068,Smartphone,Vivo,107000,4.3,27,4GB RAM 512GB Storage 6.1-inch AMOLED 5G
+69,Apple iPhone 15 0069,Smartphone,Apple,119000,3.7,14,4GB RAM 128GB Storage 6.4-inch AMOLED 5G
+70,OPPO Reno 12 0070,Smartphone,OPPO,101000,4,28,16GB RAM 128GB Storage 6.7-inch AMOLED 5G
+71,Apple iPhone 15 Plus 0071,Smartphone,Apple,15000,4.8,29,8GB RAM 64GB Storage 6.8-inch AMOLED 5G
+72,Google Pixel 9 0072,Smartphone,Google,101000,4.6,12,16GB RAM 128GB Storage 6.1-inch AMOLED 5G
+73,Sony WF-1000XM5 0073,Headphones,Sony,24700,3.8,26,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+74,Vivo Vivo Y200 0074,Smartphone,Vivo,93000,4.8,34,4GB RAM 512GB Storage 6.5-inch AMOLED 5G
+75,ASUS VivoBook S14 0075,Laptop,ASUS,104000,4.4,34,Apple M2 32GB RAM 1024GB SSD
+76,ASUS ROG Strix G16 0076,Laptop,ASUS,103000,4.1,12,AMD Ryzen 7 16GB RAM 1024GB SSD
+77,JBL Tune 760NC 0077,Headphones,JBL,37200,4.4,29,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+78,OPPO F27 Pro 0078,Smartphone,OPPO,57000,4.7,26,6GB RAM 512GB Storage 6.4-inch AMOLED 5G
+79,Xiaomi Redmi Note 14 0079,Smartphone,Xiaomi,42000,4.6,36,16GB RAM 128GB Storage 6.1-inch AMOLED 5G
+80,Dell G15 0080,Laptop,Dell,149000,4.7,7,AMD Ryzen 5 32GB RAM 1024GB SSD
+81,Vivo Vivo V30 0081,Smartphone,Vivo,82000,4.3,32,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+82,Realme Buds T300 0082,Headphones,Realme,20700,4,12,TWS Bluetooth 5.3 Adaptive ANC Wireless
+83,Lenovo IdeaPad 3 0083,Laptop,Lenovo,82000,3.9,28,Apple M3 32GB RAM 1024GB SSD
+84,MSI Katana 15 0084,Laptop,MSI,93000,4.1,14,Intel Core Ultra 5 8GB RAM 256GB SSD
+85,OnePlus OnePlus Nord 4 0085,Smartphone,OnePlus,49000,4.5,13,4GB RAM 64GB Storage 6.8-inch AMOLED 5G
+86,Apple MacBook Air 15 0086,Laptop,Apple,107000,4.3,19,AMD Ryzen 7 8GB RAM 256GB SSD
+87,Samsung Galaxy A55 0087,Smartphone,Samsung,63000,4.3,8,12GB RAM 64GB Storage 6.1-inch AMOLED 5G
+88,Xiaomi Redmi Note 14 0088,Smartphone,Xiaomi,109000,4.2,19,6GB RAM 64GB Storage 6.8-inch AMOLED 5G
+89,Sennheiser Accentum 0089,Headphones,Sennheiser,28200,4.1,44,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+90,Apple iPhone 15 Plus 0090,Smartphone,Apple,32000,4,40,6GB RAM 256GB Storage 6.1-inch AMOLED 5G
+91,Samsung Galaxy A35 0091,Smartphone,Samsung,16000,4,23,12GB RAM 512GB Storage 6.5-inch AMOLED 5G
+92,ASUS VivoBook 15 0092,Laptop,ASUS,85000,4.2,22,Intel Core Ultra 5 32GB RAM 256GB SSD
+93,OnePlus OnePlus Nord 4 0093,Smartphone,OnePlus,33000,4.7,23,6GB RAM 64GB Storage 6.1-inch AMOLED 5G
+94,ASUS TUF Gaming F15 0094,Laptop,ASUS,163000,4.3,19,Intel Core Ultra 5 32GB RAM 512GB SSD
+95,Samsung Galaxy A35 0095,Smartphone,Samsung,23000,4,6,8GB RAM 256GB Storage 6.1-inch AMOLED 5G
+96,OnePlus Buds 3 0096,Headphones,OnePlus,42700,4.2,22,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+97,Vivo Vivo Y200 0097,Smartphone,Vivo,64000,4.1,11,4GB RAM 512GB Storage 6.5-inch AMOLED 5G
+98,Realme Buds Wireless 3 0098,Headphones,Realme,43200,4.8,40,TWS Bluetooth 5.3 Adaptive ANC Wireless
+99,Apple iPhone 15 Pro 0099,Smartphone,Apple,110000,4.2,37,8GB RAM 256GB Storage 6.1-inch AMOLED 5G
+100,Sony XB910N 0100,Headphones,Sony,34200,4.1,36,On-Ear Bluetooth 5.2 ANC Wireless
+101,Apple MacBook Air 13 0101,Laptop,Apple,68000,4.8,19,AMD Ryzen 7 8GB RAM 512GB SSD
+102,Noise Air Buds Pro 0102,Headphones,Noise,16200,4.6,24,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+103,Acer Nitro V 0103,Laptop,Acer,64000,4.3,8,Apple M3 8GB RAM 256GB SSD
+104,Dell G15 0104,Laptop,Dell,104000,4.2,20,AMD Ryzen 7 32GB RAM 512GB SSD
+105,Apple AirPods Max 0105,Headphones,Apple,13200,4.8,37,TWS Bluetooth 5.2 Adaptive ANC Wireless
+106,Dell Inspiron 15 0106,Laptop,Dell,164000,4,5,Intel Core Ultra 5 16GB RAM 512GB SSD
+107,Xiaomi Poco X6 0107,Smartphone,Xiaomi,73000,4.1,40,6GB RAM 512GB Storage 6.8-inch AMOLED 5G
+108,Sennheiser Accentum 0108,Headphones,Sennheiser,16200,4.4,19,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+109,Sennheiser HD 450BT 0109,Headphones,Sennheiser,25200,4.2,14,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+110,HP Victus 15 0110,Laptop,HP,60000,4.7,19,Intel Core Ultra 5 32GB RAM 1024GB SSD
+111,OPPO Reno 12 0111,Smartphone,OPPO,21000,4.3,21,6GB RAM 512GB Storage 6.4-inch AMOLED 5G
+112,Vivo Vivo V40 0112,Smartphone,Vivo,92000,4.6,36,8GB RAM 512GB Storage 6.5-inch AMOLED 5G
+113,Sony WH-1000XM5 0113,Headphones,Sony,19200,4.9,10,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+114,HP Pavilion 15 0114,Laptop,HP,111000,4.8,6,Apple M2 16GB RAM 256GB SSD
+115,Samsung Galaxy A55 0115,Smartphone,Samsung,30000,4,31,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+116,Apple MacBook Air 13 0116,Laptop,Apple,132000,4.4,12,Intel Core i5 8GB RAM 256GB SSD
+117,Acer Aspire 7 0117,Laptop,Acer,100000,4.3,26,Apple M2 8GB RAM 512GB SSD
+118,OPPO F27 Pro 0118,Smartphone,OPPO,68000,4.8,24,16GB RAM 128GB Storage 6.1-inch AMOLED 5G
+119,ASUS TUF Gaming F15 0119,Laptop,ASUS,133000,4.7,8,Intel Core i7 16GB RAM 512GB SSD
+120,Realme Realme P1 0120,Smartphone,Realme,47000,3.7,8,8GB RAM 64GB Storage 6.7-inch AMOLED 5G
+121,Noise Two Wireless 0121,Headphones,Noise,15200,4.5,44,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+122,OnePlus OnePlus 12 0122,Smartphone,OnePlus,16000,4.4,13,4GB RAM 256GB Storage 6.7-inch AMOLED 5G
+123,Xiaomi Xiaomi 14 0123,Smartphone,Xiaomi,28000,4.6,28,12GB RAM 128GB Storage 6.4-inch AMOLED 5G
+124,Lenovo IdeaPad Slim 5 0124,Laptop,Lenovo,110000,4.6,15,Apple M3 16GB RAM 512GB SSD
+125,Noise Air Buds Pro 0125,Headphones,Noise,44200,4.9,40,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+126,Vivo Vivo V40 0126,Smartphone,Vivo,59000,4.5,21,8GB RAM 64GB Storage 6.7-inch AMOLED 5G
+127,Apple MacBook Pro 14 0127,Laptop,Apple,94000,4.3,24,Apple M2 16GB RAM 256GB SSD
+128,Realme Buds Air 6 0128,Headphones,Realme,30700,4.8,24,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+129,HP Victus 15 0129,Laptop,HP,161000,3.8,12,Intel Core Ultra 5 8GB RAM 256GB SSD
+130,Boat Airdopes 141 0130,Headphones,Boat,35700,4.2,14,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+131,JBL Wave Beam 0131,Headphones,JBL,3200,4.5,18,TWS Bluetooth 5.3 Adaptive ANC Wireless
+132,Dell Vostro 15 0132,Laptop,Dell,174000,4.8,25,Intel Core Ultra 5 8GB RAM 1024GB SSD
+133,Vivo Vivo T3 0133,Smartphone,Vivo,23000,4.5,6,6GB RAM 64GB Storage 6.7-inch AMOLED 5G
+134,Realme Realme 13 Pro 0134,Smartphone,Realme,118000,4.6,18,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+135,Apple MacBook Air 13 0135,Laptop,Apple,35000,4,9,Apple M3 16GB RAM 256GB SSD
+136,OnePlus Buds Pro 2 0136,Headphones,OnePlus,9200,3.7,20,Over-Ear Bluetooth 5.4 ANC Wireless
+137,HP Victus 15 0137,Laptop,HP,142000,4.3,28,Intel Core i7 16GB RAM 256GB SSD
+138,OPPO F27 Pro 0138,Smartphone,OPPO,76000,4,7,16GB RAM 64GB Storage 6.7-inch AMOLED 5G
+139,Apple MacBook Pro 14 0139,Laptop,Apple,42000,3.8,20,AMD Ryzen 5 32GB RAM 512GB SSD
+140,Sennheiser HD 450BT 0140,Headphones,Sennheiser,5700,4.8,25,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+141,HP Victus 15 0141,Laptop,HP,175000,4.6,17,Apple M2 16GB RAM 1024GB SSD
+142,OnePlus Buds Z2 0142,Headphones,OnePlus,7200,4.7,12,TWS Bluetooth 5.4 Adaptive ANC Wireless
+143,Apple AirPods Max 0143,Headphones,Apple,22700,4.7,30,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+144,HP Pavilion Plus 0144,Laptop,HP,100000,4.1,9,Apple M2 16GB RAM 512GB SSD
+145,ASUS VivoBook 15 0145,Laptop,ASUS,145000,3.8,28,Intel Core i5 8GB RAM 256GB SSD
+146,OnePlus OnePlus 12 0146,Smartphone,OnePlus,64000,4.1,32,16GB RAM 256GB Storage 6.1-inch AMOLED 5G
+147,Sony WF-1000XM5 0147,Headphones,Sony,7700,4.4,18,TWS Bluetooth 5.3 Adaptive ANC Wireless
+148,OPPO Reno 11 0148,Smartphone,OPPO,59000,3.8,22,4GB RAM 256GB Storage 6.8-inch AMOLED 5G
+149,Apple MacBook Air 15 0149,Laptop,Apple,177000,3.7,34,AMD Ryzen 7 32GB RAM 1024GB SSD
+150,MSI Katana 15 0150,Laptop,MSI,114000,4.8,16,Intel Core Ultra 5 8GB RAM 256GB SSD
+151,OnePlus OnePlus Nord CE 4 0151,Smartphone,OnePlus,23000,4.6,18,4GB RAM 128GB Storage 6.1-inch AMOLED 5G
+152,OPPO F27 Pro 0152,Smartphone,OPPO,104000,4.1,10,6GB RAM 256GB Storage 6.5-inch AMOLED 5G
+153,Boat Rockerz 450 0153,Headphones,Boat,6200,4,32,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+154,ASUS ROG Strix G16 0154,Laptop,ASUS,166000,3.8,18,Apple M3 16GB RAM 256GB SSD
+155,OPPO F27 Pro 0155,Smartphone,OPPO,88000,3.8,18,4GB RAM 128GB Storage 6.7-inch AMOLED 5G
+156,Google Pixel 9 Pro 0156,Smartphone,Google,27000,3.7,32,8GB RAM 256GB Storage 6.5-inch AMOLED 5G
+157,Vivo Vivo V30 0157,Smartphone,Vivo,62000,4.7,7,16GB RAM 256GB Storage 6.1-inch AMOLED 5G
+158,ASUS VivoBook 15 0158,Laptop,ASUS,138000,4.6,18,AMD Ryzen 5 16GB RAM 1024GB SSD
+159,Vivo Vivo V40 0159,Smartphone,Vivo,70000,4.7,28,8GB RAM 128GB Storage 6.8-inch AMOLED 5G
+160,Apple iPhone 15 Plus 0160,Smartphone,Apple,22000,4.2,24,12GB RAM 512GB Storage 6.8-inch AMOLED 5G
+161,Dell Vostro 15 0161,Laptop,Dell,64000,4.3,11,AMD Ryzen 7 8GB RAM 256GB SSD
+162,Realme Buds T300 0162,Headphones,Realme,16200,3.8,21,TWS Bluetooth 5.4 ANC Wireless
+163,OnePlus OnePlus 12 0163,Smartphone,OnePlus,108000,4.4,33,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+164,Acer Swift Go 14 0164,Laptop,Acer,147000,3.8,19,Intel Core i7 32GB RAM 512GB SSD
+165,Apple MacBook Air 15 0165,Laptop,Apple,164000,3.8,19,Intel Core Ultra 5 32GB RAM 256GB SSD
+166,HP Pavilion Plus 0166,Laptop,HP,58000,4.4,21,Apple M2 16GB RAM 256GB SSD
+167,Samsung Galaxy A35 0167,Smartphone,Samsung,89000,4.3,14,16GB RAM 128GB Storage 6.5-inch AMOLED 5G
+168,Noise Air Buds Pro 0168,Headphones,Noise,33200,4.5,7,On-Ear Bluetooth 5.4 ANC Wireless
+169,OPPO A3 Pro 0169,Smartphone,OPPO,59000,4.8,29,16GB RAM 128GB Storage 6.5-inch AMOLED 5G
+170,Lenovo IdeaPad 3 0170,Laptop,Lenovo,51000,4.1,22,Intel Core Ultra 5 32GB RAM 1024GB SSD
+171,Lenovo LOQ 15 0171,Laptop,Lenovo,73000,4.1,23,AMD Ryzen 7 32GB RAM 1024GB SSD
+172,Lenovo LOQ 15 0172,Laptop,Lenovo,135000,3.9,27,Apple M2 32GB RAM 1024GB SSD
+173,OnePlus Buds Z2 0173,Headphones,OnePlus,43700,4.5,38,TWS Bluetooth 5.3 ANC Wireless
+174,Vivo Vivo T3 0174,Smartphone,Vivo,35000,4.8,26,4GB RAM 256GB Storage 6.5-inch AMOLED 5G
+175,Noise Buds VS104 0175,Headphones,Noise,5700,4.1,11,Over-Ear Bluetooth 5.2 ANC Wireless
+176,Acer Aspire 5 0176,Laptop,Acer,68000,4.4,9,Apple M3 32GB RAM 512GB SSD
+177,OnePlus OnePlus Nord CE 4 0177,Smartphone,OnePlus,98000,4.6,33,4GB RAM 512GB Storage 6.5-inch AMOLED 5G
+178,Apple MacBook Pro 14 0178,Laptop,Apple,96000,4.1,30,AMD Ryzen 7 16GB RAM 256GB SSD
+179,Apple AirPods 2 0179,Headphones,Apple,30700,4.6,29,TWS Bluetooth 5.4 Adaptive ANC Wireless
+180,ASUS VivoBook S14 0180,Laptop,ASUS,99000,3.8,20,Intel Core i7 8GB RAM 1024GB SSD
+181,JBL Tune 770NC 0181,Headphones,JBL,18200,4.2,37,On-Ear Bluetooth 5.2 ANC Wireless
+182,Vivo Vivo V40 0182,Smartphone,Vivo,15000,4.2,30,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+183,Dell G15 0183,Laptop,Dell,42000,4.1,8,Intel Core i7 8GB RAM 512GB SSD
+184,Realme Buds Air 6 0184,Headphones,Realme,31200,4.5,13,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+185,Noise Master Buds 0185,Headphones,Noise,2200,4,14,TWS Bluetooth 5.2 ANC Wireless
+186,MSI Cyborg 15 0186,Laptop,MSI,112000,3.8,12,Intel Core i7 8GB RAM 512GB SSD
+187,Apple MacBook Pro 14 0187,Laptop,Apple,162000,4.4,5,Intel Core i5 16GB RAM 256GB SSD
+188,Acer Aspire 7 0188,Laptop,Acer,144000,3.7,16,Intel Core Ultra 5 32GB RAM 256GB SSD
+189,Vivo Vivo V30 0189,Smartphone,Vivo,79000,4.4,37,4GB RAM 256GB Storage 6.1-inch AMOLED 5G
+190,ASUS ROG Strix G16 0190,Laptop,ASUS,130000,4,5,AMD Ryzen 5 8GB RAM 1024GB SSD
+191,Apple iPhone 15 Pro 0191,Smartphone,Apple,106000,4.6,13,6GB RAM 64GB Storage 6.8-inch AMOLED 5G
+192,Realme Realme 13 Pro 0192,Smartphone,Realme,115000,3.9,34,12GB RAM 512GB Storage 6.4-inch AMOLED 5G
+193,Google Pixel 9 0193,Smartphone,Google,51000,4.3,39,6GB RAM 64GB Storage 6.5-inch AMOLED 5G
+194,HP Victus 15 0194,Laptop,HP,47000,4.7,15,Apple M3 16GB RAM 512GB SSD
+195,Realme Realme Narzo 70 0195,Smartphone,Realme,55000,4.9,36,12GB RAM 512GB Storage 6.7-inch AMOLED 5G
+196,Lenovo LOQ 15 0196,Laptop,Lenovo,55000,4.2,31,AMD Ryzen 5 8GB RAM 1024GB SSD
+197,Xiaomi Xiaomi 14 0197,Smartphone,Xiaomi,96000,4.1,33,4GB RAM 64GB Storage 6.5-inch AMOLED 5G
+198,ASUS VivoBook S14 0198,Laptop,ASUS,149000,3.8,32,Intel Core Ultra 5 32GB RAM 512GB SSD
+199,Sennheiser CX Plus 0199,Headphones,Sennheiser,43700,4.5,28,TWS Bluetooth 5.2 ANC Wireless
+200,MSI Thin 15 0200,Laptop,MSI,147000,3.7,7,Apple M3 8GB RAM 256GB SSD
+201,Realme Realme P1 0201,Smartphone,Realme,31000,4.5,28,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+202,Apple iPhone 13 0202,Smartphone,Apple,52000,4.5,20,6GB RAM 256GB Storage 6.7-inch AMOLED 5G
+203,Sony WH-CH720N 0203,Headphones,Sony,36700,3.8,21,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+204,Dell Vostro 15 0204,Laptop,Dell,66000,3.9,7,Intel Core i7 32GB RAM 512GB SSD
+205,MSI Cyborg 15 0205,Laptop,MSI,116000,4.5,27,Apple M3 8GB RAM 1024GB SSD
+206,Xiaomi Xiaomi 14 0206,Smartphone,Xiaomi,77000,4,17,6GB RAM 128GB Storage 6.5-inch AMOLED 5G
+207,Apple AirPods Max 0207,Headphones,Apple,37700,4.1,40,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+208,Apple iPhone 15 0208,Smartphone,Apple,79000,4.2,31,8GB RAM 512GB Storage 6.7-inch AMOLED 5G
+209,JBL Live 660NC 0209,Headphones,JBL,29700,4.3,38,On-Ear Bluetooth 5.4 ANC Wireless
+210,OnePlus OnePlus 12R 0210,Smartphone,OnePlus,78000,3.9,15,12GB RAM 64GB Storage 6.1-inch AMOLED 5G
+211,Google Pixel 8a 0211,Smartphone,Google,44000,3.9,40,16GB RAM 256GB Storage 6.1-inch AMOLED 5G
+212,Xiaomi Redmi Note 14 0212,Smartphone,Xiaomi,86000,3.9,26,16GB RAM 128GB Storage 6.8-inch AMOLED 5G
+213,Sony WH-1000XM5 0213,Headphones,Sony,37700,4,18,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+214,Sennheiser HD 450BT 0214,Headphones,Sennheiser,19700,4.5,24,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+215,Apple MacBook Pro 14 0215,Laptop,Apple,53000,4.5,10,AMD Ryzen 5 16GB RAM 512GB SSD
+216,ASUS ROG Strix G16 0216,Laptop,ASUS,71000,4.1,27,AMD Ryzen 7 8GB RAM 512GB SSD
+217,Realme Realme Narzo 70 0217,Smartphone,Realme,83000,3.8,20,6GB RAM 256GB Storage 6.8-inch AMOLED 5G
+218,Lenovo ThinkBook 15 0218,Laptop,Lenovo,47000,4,17,Intel Core i5 8GB RAM 256GB SSD
+219,Sennheiser Momentum 4 0219,Headphones,Sennheiser,21200,3.9,15,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+220,Acer Nitro V 0220,Laptop,Acer,40000,3.8,17,AMD Ryzen 5 16GB RAM 512GB SSD
+221,Dell Inspiron 14 0221,Laptop,Dell,47000,4,24,Intel Core i5 32GB RAM 512GB SSD
+222,Noise Two Wireless 0222,Headphones,Noise,28700,3.9,21,TWS Bluetooth 5.2 ANC Wireless
+223,Apple MacBook Air 15 0223,Laptop,Apple,48000,4.4,11,AMD Ryzen 5 16GB RAM 256GB SSD
+224,Xiaomi Redmi Note 14 0224,Smartphone,Xiaomi,47000,4.7,12,12GB RAM 512GB Storage 6.8-inch AMOLED 5G
+225,Apple iPhone 14 0225,Smartphone,Apple,58000,4.6,17,8GB RAM 256GB Storage 6.8-inch AMOLED 5G
+226,ASUS VivoBook 15 0226,Laptop,ASUS,120000,4.7,21,Intel Core i7 8GB RAM 256GB SSD
+227,Acer Aspire 7 0227,Laptop,Acer,76000,4.2,24,Intel Core Ultra 5 16GB RAM 1024GB SSD
+228,Lenovo LOQ 15 0228,Laptop,Lenovo,160000,4.6,14,AMD Ryzen 7 32GB RAM 1024GB SSD
+229,HP Pavilion Plus 0229,Laptop,HP,141000,4.4,30,Intel Core i5 16GB RAM 1024GB SSD
+230,Sony XB910N 0230,Headphones,Sony,37700,4,8,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+231,Dell G15 0231,Laptop,Dell,43000,4.4,27,Intel Core i7 8GB RAM 1024GB SSD
+232,Samsung Galaxy A35 0232,Smartphone,Samsung,64000,4.5,31,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+233,Acer Nitro V 0233,Laptop,Acer,70000,4.3,22,Intel Core i5 32GB RAM 1024GB SSD
+234,OPPO A3 Pro 0234,Smartphone,OPPO,80000,4.1,27,8GB RAM 128GB Storage 6.7-inch AMOLED 5G
+235,Apple MacBook Pro 14 0235,Laptop,Apple,102000,4.4,11,Apple M3 32GB RAM 1024GB SSD
+236,OnePlus Nord Buds 2 0236,Headphones,OnePlus,14200,4.5,36,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+237,Realme Realme P1 0237,Smartphone,Realme,98000,4.4,30,8GB RAM 64GB Storage 6.8-inch AMOLED 5G
+238,Boat Nirvana Ion 0238,Headphones,Boat,6200,4.1,33,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+239,MSI Cyborg 15 0239,Laptop,MSI,172000,4,22,Apple M3 8GB RAM 256GB SSD
+240,Dell Inspiron 15 0240,Laptop,Dell,96000,4,26,AMD Ryzen 7 32GB RAM 1024GB SSD
+241,Apple AirPods Pro 2 0241,Headphones,Apple,22200,4.6,11,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+242,Dell Inspiron 15 0242,Laptop,Dell,156000,4.3,11,AMD Ryzen 5 32GB RAM 256GB SSD
+243,OnePlus Nord Buds 2 0243,Headphones,OnePlus,6700,4.5,19,On-Ear Bluetooth 5.4 ANC Wireless
+244,MSI Modern 14 0244,Laptop,MSI,80000,4.8,6,Apple M3 8GB RAM 512GB SSD
+245,Sennheiser Accentum 0245,Headphones,Sennheiser,3200,3.7,41,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+246,Lenovo LOQ 15 0246,Laptop,Lenovo,169000,4.3,35,AMD Ryzen 7 16GB RAM 1024GB SSD
+247,OPPO F27 Pro 0247,Smartphone,OPPO,32000,4.6,21,6GB RAM 64GB Storage 6.5-inch AMOLED 5G
+248,HP Pavilion Plus 0248,Laptop,HP,84000,3.9,32,Apple M2 16GB RAM 1024GB SSD
+249,ASUS ROG Strix G16 0249,Laptop,ASUS,137000,4.5,10,Intel Core i5 32GB RAM 512GB SSD
+250,Noise Two Wireless 0250,Headphones,Noise,25700,4,22,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+251,OnePlus Buds 3 0251,Headphones,OnePlus,16200,3.8,12,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+252,Dell G15 0252,Laptop,Dell,114000,4.5,25,Apple M2 32GB RAM 1024GB SSD
+253,OnePlus Nord Buds 2 0253,Headphones,OnePlus,9700,4.3,34,TWS Bluetooth 5.2 ANC Wireless
+254,Acer Swift Go 14 0254,Laptop,Acer,155000,4.6,30,AMD Ryzen 7 16GB RAM 1024GB SSD
+255,Dell Inspiron 14 0255,Laptop,Dell,55000,4.3,21,Apple M3 32GB RAM 1024GB SSD
+256,HP Pavilion 15 0256,Laptop,HP,86000,4.4,9,AMD Ryzen 7 8GB RAM 1024GB SSD
+257,OPPO Reno 12 0257,Smartphone,OPPO,77000,4.2,8,6GB RAM 512GB Storage 6.1-inch AMOLED 5G
+258,Acer Nitro V 0258,Laptop,Acer,178000,4.3,30,Intel Core i5 16GB RAM 1024GB SSD
+259,Samsung Galaxy A35 0259,Smartphone,Samsung,86000,3.8,32,8GB RAM 64GB Storage 6.4-inch AMOLED 5G
+260,Apple iPhone 13 0260,Smartphone,Apple,16000,4,16,4GB RAM 64GB Storage 6.7-inch AMOLED 5G
+261,Sennheiser CX Plus 0261,Headphones,Sennheiser,25200,3.8,39,On-Ear Bluetooth 5.3 Adaptive ANC Wireless
+262,Realme Realme GT 6 0262,Smartphone,Realme,28000,4.6,19,6GB RAM 512GB Storage 6.8-inch AMOLED 5G
+263,Sony WF-1000XM5 0263,Headphones,Sony,35700,4.2,29,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+264,Apple AirPods Max 0264,Headphones,Apple,13200,4.8,12,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+265,Vivo Vivo V40 0265,Smartphone,Vivo,24000,4.4,33,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+266,MSI Modern 14 0266,Laptop,MSI,137000,4.2,22,Intel Core i5 8GB RAM 1024GB SSD
+267,Samsung Galaxy S24 FE 0267,Smartphone,Samsung,116000,4.8,25,16GB RAM 256GB Storage 6.4-inch AMOLED 5G
+268,Apple MacBook Pro 14 0268,Laptop,Apple,71000,4.9,21,Intel Core Ultra 5 16GB RAM 256GB SSD
+269,Xiaomi Xiaomi 14 0269,Smartphone,Xiaomi,83000,4.3,27,4GB RAM 128GB Storage 6.7-inch AMOLED 5G
+270,Sennheiser CX Plus 0270,Headphones,Sennheiser,10700,4.1,16,TWS Bluetooth 5.3 Adaptive ANC Wireless
+271,Noise Buds VS104 0271,Headphones,Noise,10200,4.7,8,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+272,ASUS VivoBook S14 0272,Laptop,ASUS,87000,4.1,7,Intel Core Ultra 5 16GB RAM 256GB SSD
+273,Realme Buds Air 5 0273,Headphones,Realme,4200,4,43,TWS Bluetooth 5.4 ANC Wireless
+274,Apple MacBook Air 13 0274,Laptop,Apple,178000,4,11,Apple M2 8GB RAM 1024GB SSD
+275,Realme Buds T300 0275,Headphones,Realme,8700,4.6,35,Over-Ear Bluetooth 5.2 ANC Wireless
+276,Apple AirPods Max 0276,Headphones,Apple,19200,4.2,39,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+277,Lenovo LOQ 15 0277,Laptop,Lenovo,154000,3.8,28,AMD Ryzen 5 16GB RAM 1024GB SSD
+278,Apple MacBook Air 15 0278,Laptop,Apple,140000,3.8,32,Intel Core Ultra 5 8GB RAM 512GB SSD
+279,OnePlus OnePlus 12 0279,Smartphone,OnePlus,31000,3.9,19,8GB RAM 512GB Storage 6.5-inch AMOLED 5G
+280,Google Pixel 8 0280,Smartphone,Google,109000,4.7,36,16GB RAM 256GB Storage 6.5-inch AMOLED 5G
+281,MSI Katana 15 0281,Laptop,MSI,174000,4.3,34,Apple M2 8GB RAM 256GB SSD
+282,Sony WH-1000XM5 0282,Headphones,Sony,1200,4.2,45,Over-Ear Bluetooth 5.4 ANC Wireless
+283,OnePlus OnePlus 12 0283,Smartphone,OnePlus,19000,4.4,35,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+284,HP Pavilion 15 0284,Laptop,HP,38000,3.7,28,AMD Ryzen 5 32GB RAM 1024GB SSD
+285,Xiaomi Redmi Note 14 0285,Smartphone,Xiaomi,25000,4.8,38,16GB RAM 512GB Storage 6.4-inch AMOLED 5G
+286,Google Pixel 8a 0286,Smartphone,Google,22000,4.1,30,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+287,Dell Inspiron 14 0287,Laptop,Dell,55000,4.5,32,Apple M3 16GB RAM 1024GB SSD
+288,HP Pavilion 15 0288,Laptop,HP,176000,4.3,25,AMD Ryzen 5 16GB RAM 512GB SSD
+289,OnePlus OnePlus 12 0289,Smartphone,OnePlus,84000,4.9,11,12GB RAM 512GB Storage 6.5-inch AMOLED 5G
+290,Sony WH-CH720N 0290,Headphones,Sony,31200,4,9,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+291,Lenovo IdeaPad 3 0291,Laptop,Lenovo,88000,4.4,29,Intel Core i5 8GB RAM 512GB SSD
+292,Sennheiser HD 450BT 0292,Headphones,Sennheiser,16200,4.4,29,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+293,Acer Swift Go 14 0293,Laptop,Acer,55000,4.3,16,Intel Core i7 16GB RAM 1024GB SSD
+294,Vivo Vivo V30 0294,Smartphone,Vivo,110000,4.4,30,4GB RAM 256GB Storage 6.8-inch AMOLED 5G
+295,Realme Buds Air 5 0295,Headphones,Realme,32200,4,40,TWS Bluetooth 5.3 Adaptive ANC Wireless
+296,Sennheiser Momentum 4 0296,Headphones,Sennheiser,25200,3.8,44,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+297,Google Pixel 9 0297,Smartphone,Google,60000,4.6,14,4GB RAM 256GB Storage 6.4-inch AMOLED 5G
+298,Lenovo LOQ 15 0298,Laptop,Lenovo,113000,4.2,29,Intel Core i5 8GB RAM 256GB SSD
+299,OnePlus OnePlus 12 0299,Smartphone,OnePlus,83000,4.4,31,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+300,Apple iPhone 15 Pro 0300,Smartphone,Apple,88000,4.6,29,16GB RAM 64GB Storage 6.8-inch AMOLED 5G
+301,Vivo Vivo Y200 0301,Smartphone,Vivo,78000,3.9,29,4GB RAM 128GB Storage 6.8-inch AMOLED 5G
+302,Xiaomi Xiaomi 14 0302,Smartphone,Xiaomi,20000,3.9,22,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+303,ASUS VivoBook 15 0303,Laptop,ASUS,161000,4.4,11,Intel Core i7 16GB RAM 512GB SSD
+304,Dell Vostro 15 0304,Laptop,Dell,132000,4.7,15,Intel Core Ultra 5 8GB RAM 512GB SSD
+305,ASUS VivoBook S14 0305,Laptop,ASUS,86000,4.3,10,AMD Ryzen 7 16GB RAM 512GB SSD
+306,Realme Buds T300 0306,Headphones,Realme,32200,4.9,20,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+307,Xiaomi Poco X6 0307,Smartphone,Xiaomi,37000,4.4,39,8GB RAM 64GB Storage 6.8-inch AMOLED 5G
+308,Samsung Galaxy A35 0308,Smartphone,Samsung,118000,4.5,31,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+309,Dell Vostro 15 0309,Laptop,Dell,74000,4.6,30,Apple M2 8GB RAM 512GB SSD
+310,OPPO A3 Pro 0310,Smartphone,OPPO,76000,4.8,31,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+311,Apple MacBook Air 15 0311,Laptop,Apple,56000,3.8,12,AMD Ryzen 7 32GB RAM 1024GB SSD
+312,Lenovo IdeaPad Slim 5 0312,Laptop,Lenovo,179000,4.9,26,Intel Core i5 32GB RAM 1024GB SSD
+313,Apple MacBook Air 15 0313,Laptop,Apple,60000,4,21,Intel Core i5 16GB RAM 256GB SSD
+314,Acer Aspire 7 0314,Laptop,Acer,153000,4.6,23,AMD Ryzen 5 16GB RAM 512GB SSD
+315,Dell Vostro 15 0315,Laptop,Dell,110000,4.2,35,Intel Core i5 8GB RAM 512GB SSD
+316,OnePlus OnePlus Nord 4 0316,Smartphone,OnePlus,112000,3.9,35,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+317,Apple iPhone 14 0317,Smartphone,Apple,50000,3.8,12,12GB RAM 256GB Storage 6.1-inch AMOLED 5G
+318,Realme Realme GT 6 0318,Smartphone,Realme,34000,4.4,26,6GB RAM 128GB Storage 6.8-inch AMOLED 5G
+319,ASUS VivoBook S14 0319,Laptop,ASUS,82000,4.5,18,Intel Core i7 16GB RAM 1024GB SSD
+320,Google Pixel 8 0320,Smartphone,Google,12000,4.5,18,16GB RAM 512GB Storage 6.7-inch AMOLED 5G
+321,Apple iPhone 13 0321,Smartphone,Apple,53000,3.9,12,4GB RAM 128GB Storage 6.5-inch AMOLED 5G
+322,OPPO F27 Pro 0322,Smartphone,OPPO,62000,4.4,27,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+323,OPPO Reno 11 0323,Smartphone,OPPO,52000,3.8,24,8GB RAM 64GB Storage 6.4-inch AMOLED 5G
+324,Realme Realme 13 Pro 0324,Smartphone,Realme,88000,3.9,29,16GB RAM 512GB Storage 6.7-inch AMOLED 5G
+325,ASUS VivoBook S14 0325,Laptop,ASUS,108000,3.9,15,AMD Ryzen 5 32GB RAM 256GB SSD
+326,Sony WF-1000XM5 0326,Headphones,Sony,13200,4.7,40,Over-Ear Bluetooth 5.3 ANC Wireless
+327,ASUS ROG Strix G16 0327,Laptop,ASUS,148000,4.3,7,AMD Ryzen 5 32GB RAM 512GB SSD
+328,Apple MacBook Air 13 0328,Laptop,Apple,92000,4.3,10,Intel Core Ultra 5 16GB RAM 256GB SSD
+329,Noise Air Buds Pro 0329,Headphones,Noise,35700,4.7,28,TWS Bluetooth 5.2 Adaptive ANC Wireless
+330,Apple MacBook Air 13 0330,Laptop,Apple,90000,4.9,8,AMD Ryzen 7 32GB RAM 512GB SSD
+331,MSI Thin 15 0331,Laptop,MSI,102000,4.1,31,AMD Ryzen 5 16GB RAM 256GB SSD
+332,Apple iPhone 15 Plus 0332,Smartphone,Apple,92000,4.2,13,6GB RAM 256GB Storage 6.8-inch AMOLED 5G
+333,Apple AirPods 3 0333,Headphones,Apple,18700,4.4,15,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+334,Xiaomi Xiaomi 14 0334,Smartphone,Xiaomi,98000,4.7,13,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+335,Sennheiser HD 450BT 0335,Headphones,Sennheiser,9200,4,25,On-Ear Bluetooth 5.4 ANC Wireless
+336,Sennheiser Accentum 0336,Headphones,Sennheiser,18200,4.5,29,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+337,MSI Modern 14 0337,Laptop,MSI,106000,4.5,33,Apple M2 16GB RAM 1024GB SSD
+338,OPPO F27 Pro 0338,Smartphone,OPPO,105000,4.9,27,16GB RAM 64GB Storage 6.1-inch AMOLED 5G
+339,Sennheiser Momentum 4 0339,Headphones,Sennheiser,18200,4.1,23,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+340,OnePlus OnePlus Nord CE 4 0340,Smartphone,OnePlus,24000,4.5,34,8GB RAM 64GB Storage 6.1-inch AMOLED 5G
+341,OnePlus OnePlus Nord CE 4 0341,Smartphone,OnePlus,37000,4.9,13,12GB RAM 64GB Storage 6.7-inch AMOLED 5G
+342,OnePlus Buds Pro 2 0342,Headphones,OnePlus,24200,4,28,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+343,MSI Thin 15 0343,Laptop,MSI,113000,4.6,29,Apple M2 8GB RAM 512GB SSD
+344,Apple iPhone 15 0344,Smartphone,Apple,21000,3.9,19,4GB RAM 128GB Storage 6.7-inch AMOLED 5G
+345,ASUS VivoBook 15 0345,Laptop,ASUS,65000,4.9,18,Intel Core Ultra 5 8GB RAM 1024GB SSD
+346,ASUS VivoBook 15 0346,Laptop,ASUS,61000,3.8,16,Intel Core i5 8GB RAM 512GB SSD
+347,Boat Airdopes 141 0347,Headphones,Boat,10200,3.8,41,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+348,OnePlus OnePlus Nord CE 4 0348,Smartphone,OnePlus,64000,4.4,33,8GB RAM 128GB Storage 6.4-inch AMOLED 5G
+349,JBL Tune 770NC 0349,Headphones,JBL,25700,4.1,32,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+350,OnePlus OnePlus 12R 0350,Smartphone,OnePlus,82000,4.4,23,8GB RAM 64GB Storage 6.4-inch AMOLED 5G
+351,Sony WF-1000XM5 0351,Headphones,Sony,33700,3.9,30,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+352,Samsung Galaxy S24 FE 0352,Smartphone,Samsung,42000,4.3,9,12GB RAM 512GB Storage 6.1-inch AMOLED 5G
+353,HP Pavilion Plus 0353,Laptop,HP,180000,4.2,22,AMD Ryzen 5 16GB RAM 256GB SSD
+354,Apple MacBook Air 15 0354,Laptop,Apple,52000,3.7,11,AMD Ryzen 7 8GB RAM 256GB SSD
+355,Samsung Galaxy A35 0355,Smartphone,Samsung,110000,4.2,30,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+356,OnePlus OnePlus Nord 4 0356,Smartphone,OnePlus,77000,4.8,14,4GB RAM 256GB Storage 6.1-inch AMOLED 5G
+357,ASUS VivoBook 15 0357,Laptop,ASUS,96000,3.8,7,AMD Ryzen 5 16GB RAM 1024GB SSD
+358,JBL Wave Beam 0358,Headphones,JBL,20700,4.5,16,TWS Bluetooth 5.4 ANC Wireless
+359,OnePlus OnePlus 12 0359,Smartphone,OnePlus,78000,4.3,21,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+360,OnePlus OnePlus Nord 4 0360,Smartphone,OnePlus,115000,4.2,38,4GB RAM 64GB Storage 6.5-inch AMOLED 5G
+361,Apple iPhone 14 0361,Smartphone,Apple,75000,4.7,15,12GB RAM 256GB Storage 6.1-inch AMOLED 5G
+362,Xiaomi Redmi Note 14 0362,Smartphone,Xiaomi,106000,4.3,7,16GB RAM 64GB Storage 6.4-inch AMOLED 5G
+363,Sony WH-CH720N 0363,Headphones,Sony,25700,4.8,16,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+364,Sony XB910N 0364,Headphones,Sony,27700,4.8,25,Over-Ear Bluetooth 5.3 ANC Wireless
+365,Apple iPhone 13 0365,Smartphone,Apple,98000,4.8,16,8GB RAM 64GB Storage 6.8-inch AMOLED 5G
+366,Samsung Galaxy A35 0366,Smartphone,Samsung,111000,4.7,25,4GB RAM 512GB Storage 6.5-inch AMOLED 5G
+367,OPPO Reno 12 0367,Smartphone,OPPO,84000,4.6,20,8GB RAM 128GB Storage 6.5-inch AMOLED 5G
+368,Acer Nitro V 0368,Laptop,Acer,97000,3.9,34,AMD Ryzen 7 8GB RAM 1024GB SSD
+369,Dell Vostro 15 0369,Laptop,Dell,120000,3.7,26,Intel Core i5 32GB RAM 1024GB SSD
+370,Xiaomi Redmi Note 14 0370,Smartphone,Xiaomi,74000,4.9,14,6GB RAM 128GB Storage 6.7-inch AMOLED 5G
+371,HP Pavilion 15 0371,Laptop,HP,130000,4.3,28,AMD Ryzen 5 8GB RAM 1024GB SSD
+372,Apple iPhone 13 0372,Smartphone,Apple,87000,4.4,32,6GB RAM 512GB Storage 6.1-inch AMOLED 5G
+373,Dell Inspiron 14 0373,Laptop,Dell,115000,4.8,17,Apple M3 16GB RAM 512GB SSD
+374,MSI Katana 15 0374,Laptop,MSI,94000,3.8,11,Intel Core Ultra 5 16GB RAM 512GB SSD
+375,Apple iPhone 15 Plus 0375,Smartphone,Apple,71000,4.1,12,4GB RAM 128GB Storage 6.7-inch AMOLED 5G
+376,Apple MacBook Air 13 0376,Laptop,Apple,102000,4.7,7,AMD Ryzen 5 16GB RAM 512GB SSD
+377,Xiaomi Redmi Note 14 0377,Smartphone,Xiaomi,23000,4.6,27,6GB RAM 256GB Storage 6.4-inch AMOLED 5G
+378,Samsung Galaxy A55 0378,Smartphone,Samsung,63000,4.7,40,8GB RAM 128GB Storage 6.1-inch AMOLED 5G
+379,Dell Inspiron 15 0379,Laptop,Dell,70000,3.8,6,Apple M3 16GB RAM 256GB SSD
+380,Apple AirPods Pro 2 0380,Headphones,Apple,44700,4.5,10,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+381,Lenovo IdeaPad 3 0381,Laptop,Lenovo,148000,4.7,7,Intel Core i7 8GB RAM 256GB SSD
+382,Realme Buds Air 5 0382,Headphones,Realme,11700,4.8,32,Over-Ear Bluetooth 5.3 ANC Wireless
+383,Sennheiser Accentum 0383,Headphones,Sennheiser,28200,3.9,18,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+384,OnePlus Nord Buds 2 0384,Headphones,OnePlus,40200,4.4,20,On-Ear Bluetooth 5.2 ANC Wireless
+385,ASUS ROG Strix G16 0385,Laptop,ASUS,57000,4,9,Intel Core i5 32GB RAM 512GB SSD
+386,MSI Thin 15 0386,Laptop,MSI,39000,4.9,30,Apple M3 32GB RAM 1024GB SSD
+387,ASUS ROG Strix G16 0387,Laptop,ASUS,117000,4.2,10,AMD Ryzen 7 16GB RAM 1024GB SSD
+388,Google Pixel 9 0388,Smartphone,Google,79000,4.1,19,8GB RAM 64GB Storage 6.7-inch AMOLED 5G
+389,JBL Live 660NC 0389,Headphones,JBL,35200,4.7,8,TWS Bluetooth 5.2 Adaptive ANC Wireless
+390,Apple AirPods Max 0390,Headphones,Apple,16200,4.4,27,On-Ear Bluetooth 5.2 ANC Wireless
+391,Sony WF-1000XM5 0391,Headphones,Sony,37200,4.8,36,TWS Bluetooth 5.4 ANC Wireless
+392,Dell G15 0392,Laptop,Dell,94000,4.4,5,Intel Core i5 8GB RAM 256GB SSD
+393,HP Pavilion Plus 0393,Laptop,HP,68000,4.1,10,Apple M3 32GB RAM 256GB SSD
+394,Realme Buds Air 5 0394,Headphones,Realme,10200,4.6,38,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+395,JBL Tune 760NC 0395,Headphones,JBL,38700,3.8,24,TWS Bluetooth 5.4 Adaptive ANC Wireless
+396,OnePlus OnePlus Nord CE 4 0396,Smartphone,OnePlus,102000,4.9,27,12GB RAM 256GB Storage 6.4-inch AMOLED 5G
+397,OnePlus OnePlus Nord CE 4 0397,Smartphone,OnePlus,34000,4.6,30,8GB RAM 256GB Storage 6.4-inch AMOLED 5G
+398,Sony WH-CH720N 0398,Headphones,Sony,15200,4.5,11,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+399,Boat Nirvana Ion 0399,Headphones,Boat,23200,4.9,15,TWS Bluetooth 5.2 ANC Wireless
+400,HP Pavilion Plus 0400,Laptop,HP,88000,4,7,Intel Core Ultra 5 16GB RAM 256GB SSD
+401,Apple iPhone 15 0401,Smartphone,Apple,105000,4.2,15,4GB RAM 512GB Storage 6.7-inch AMOLED 5G
+402,Noise Master Buds 0402,Headphones,Noise,7200,4.7,41,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+403,MSI Thin 15 0403,Laptop,MSI,43000,4.1,15,Intel Core i5 8GB RAM 512GB SSD
+404,Apple iPhone 15 0404,Smartphone,Apple,32000,4.6,40,8GB RAM 128GB Storage 6.7-inch AMOLED 5G
+405,JBL Tune 760NC 0405,Headphones,JBL,2700,4.2,15,TWS Bluetooth 5.4 Adaptive ANC Wireless
+406,ASUS VivoBook S14 0406,Laptop,ASUS,87000,4.9,18,Intel Core Ultra 5 8GB RAM 256GB SSD
+407,MSI Katana 15 0407,Laptop,MSI,95000,3.8,17,Intel Core Ultra 5 32GB RAM 512GB SSD
+408,Apple MacBook Air 15 0408,Laptop,Apple,35000,4.2,14,Intel Core Ultra 5 8GB RAM 256GB SSD
+409,Noise Buds VS104 0409,Headphones,Noise,11700,4.5,10,Over-Ear Bluetooth 5.2 ANC Wireless
+410,HP Pavilion Plus 0410,Laptop,HP,102000,3.8,22,AMD Ryzen 5 16GB RAM 512GB SSD
+411,Realme Realme Narzo 70 0411,Smartphone,Realme,17000,4,34,8GB RAM 128GB Storage 6.7-inch AMOLED 5G
+412,Xiaomi Redmi Note 14 0412,Smartphone,Xiaomi,97000,4.1,39,6GB RAM 64GB Storage 6.1-inch AMOLED 5G
+413,Apple MacBook Pro 14 0413,Laptop,Apple,134000,4.7,18,Intel Core i5 8GB RAM 1024GB SSD
+414,Noise Buds VS104 0414,Headphones,Noise,26200,4.8,7,On-Ear Bluetooth 5.3 ANC Wireless
+415,Acer Aspire 7 0415,Laptop,Acer,77000,4.9,30,Intel Core i7 8GB RAM 512GB SSD
+416,Samsung Galaxy A35 0416,Smartphone,Samsung,117000,4.5,21,4GB RAM 512GB Storage 6.4-inch AMOLED 5G
+417,Apple iPhone 15 0417,Smartphone,Apple,53000,4.7,38,12GB RAM 512GB Storage 6.8-inch AMOLED 5G
+418,Apple MacBook Air 13 0418,Laptop,Apple,168000,4.6,8,AMD Ryzen 7 32GB RAM 1024GB SSD
+419,Dell Inspiron 15 0419,Laptop,Dell,60000,4.6,32,Apple M3 8GB RAM 1024GB SSD
+420,Lenovo ThinkBook 15 0420,Laptop,Lenovo,159000,4.4,20,Apple M2 16GB RAM 512GB SSD
+421,Xiaomi Poco X6 0421,Smartphone,Xiaomi,62000,4.8,26,6GB RAM 512GB Storage 6.1-inch AMOLED 5G
+422,HP 15s 0422,Laptop,HP,121000,4.7,14,Intel Core i5 16GB RAM 512GB SSD
+423,OPPO Reno 12 0423,Smartphone,OPPO,107000,4.2,25,6GB RAM 128GB Storage 6.5-inch AMOLED 5G
+424,Vivo Vivo V40 0424,Smartphone,Vivo,117000,4.2,36,6GB RAM 512GB Storage 6.4-inch AMOLED 5G
+425,Realme Buds Air 5 0425,Headphones,Realme,20700,4.6,30,TWS Bluetooth 5.2 ANC Wireless
+426,Samsung Galaxy S24 FE 0426,Smartphone,Samsung,43000,3.7,8,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+427,Apple AirPods 2 0427,Headphones,Apple,26200,4.5,12,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+428,Dell Vostro 15 0428,Laptop,Dell,80000,4.9,20,AMD Ryzen 5 16GB RAM 1024GB SSD
+429,Lenovo LOQ 15 0429,Laptop,Lenovo,58000,4,17,Apple M2 8GB RAM 512GB SSD
+430,Google Pixel 9 Pro 0430,Smartphone,Google,95000,4.2,6,6GB RAM 128GB Storage 6.5-inch AMOLED 5G
+431,Sony XB910N 0431,Headphones,Sony,39200,4.7,19,Over-Ear Bluetooth 5.4 ANC Wireless
+432,Xiaomi Xiaomi 14 0432,Smartphone,Xiaomi,70000,4,34,12GB RAM 512GB Storage 6.5-inch AMOLED 5G
+433,Vivo Vivo V40 0433,Smartphone,Vivo,94000,4.4,23,4GB RAM 256GB Storage 6.8-inch AMOLED 5G
+434,Apple iPhone 14 0434,Smartphone,Apple,93000,4.1,22,4GB RAM 256GB Storage 6.5-inch AMOLED 5G
+435,Xiaomi Redmi Note 13 Pro 0435,Smartphone,Xiaomi,115000,4.7,30,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+436,MSI Thin 15 0436,Laptop,MSI,162000,4.9,13,Apple M2 32GB RAM 256GB SSD
+437,Sennheiser Accentum 0437,Headphones,Sennheiser,37700,4.7,26,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+438,Dell G15 0438,Laptop,Dell,111000,4.7,31,AMD Ryzen 7 32GB RAM 512GB SSD
+439,Acer Aspire 7 0439,Laptop,Acer,67000,4.6,28,AMD Ryzen 5 16GB RAM 256GB SSD
+440,Boat Nirvana Ion 0440,Headphones,Boat,23700,4,24,TWS Bluetooth 5.2 ANC Wireless
+441,Lenovo LOQ 15 0441,Laptop,Lenovo,153000,4.7,20,Intel Core Ultra 5 16GB RAM 1024GB SSD
+442,Apple iPhone 14 0442,Smartphone,Apple,79000,4.1,8,6GB RAM 64GB Storage 6.7-inch AMOLED 5G
+443,Boat Rockerz 450 0443,Headphones,Boat,37200,4.8,34,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+444,OnePlus OnePlus 12 0444,Smartphone,OnePlus,52000,4.5,5,12GB RAM 256GB Storage 6.4-inch AMOLED 5G
+445,Dell Inspiron 14 0445,Laptop,Dell,57000,3.9,18,AMD Ryzen 5 32GB RAM 256GB SSD
+446,ASUS ROG Strix G16 0446,Laptop,ASUS,44000,4.3,28,Intel Core i5 16GB RAM 512GB SSD
+447,Samsung Galaxy A55 0447,Smartphone,Samsung,98000,3.7,20,16GB RAM 128GB Storage 6.1-inch AMOLED 5G
+448,Realme Realme P1 0448,Smartphone,Realme,76000,4.4,15,6GB RAM 64GB Storage 6.7-inch AMOLED 5G
+449,Samsung Galaxy A55 0449,Smartphone,Samsung,88000,4.3,32,8GB RAM 512GB Storage 6.8-inch AMOLED 5G
+450,Boat Nirvana Ion 0450,Headphones,Boat,11700,4.8,30,On-Ear Bluetooth 5.3 ANC Wireless
+451,Google Pixel 9 Pro 0451,Smartphone,Google,76000,3.9,28,6GB RAM 64GB Storage 6.8-inch AMOLED 5G
+452,Apple MacBook Air 13 0452,Laptop,Apple,171000,4.4,24,Intel Core Ultra 5 16GB RAM 1024GB SSD
+453,JBL Tune 770NC 0453,Headphones,JBL,27700,4.2,12,Over-Ear Bluetooth 5.4 ANC Wireless
+454,ASUS VivoBook S14 0454,Laptop,ASUS,37000,4.1,26,Apple M2 8GB RAM 1024GB SSD
+455,Xiaomi Redmi Note 13 Pro 0455,Smartphone,Xiaomi,104000,4.4,23,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+456,Apple iPhone 14 0456,Smartphone,Apple,118000,4.3,17,6GB RAM 128GB Storage 6.5-inch AMOLED 5G
+457,Vivo Vivo T3 0457,Smartphone,Vivo,75000,4.8,35,6GB RAM 64GB Storage 6.8-inch AMOLED 5G
+458,Samsung Galaxy S24 0458,Smartphone,Samsung,97000,4.3,10,4GB RAM 64GB Storage 6.8-inch AMOLED 5G
+459,JBL Tune 770NC 0459,Headphones,JBL,30200,4.9,23,On-Ear Bluetooth 5.4 ANC Wireless
+460,Samsung Galaxy S24 0460,Smartphone,Samsung,58000,4.7,25,6GB RAM 64GB Storage 6.5-inch AMOLED 5G
+461,HP Pavilion 15 0461,Laptop,HP,70000,4.5,10,Apple M3 8GB RAM 256GB SSD
+462,OPPO F27 Pro 0462,Smartphone,OPPO,35000,3.8,30,4GB RAM 256GB Storage 6.5-inch AMOLED 5G
+463,OnePlus Buds Z2 0463,Headphones,OnePlus,42700,4.8,15,TWS Bluetooth 5.3 Adaptive ANC Wireless
+464,Samsung Galaxy S24 FE 0464,Smartphone,Samsung,73000,4.7,33,4GB RAM 512GB Storage 6.8-inch AMOLED 5G
+465,Vivo Vivo T3 0465,Smartphone,Vivo,73000,4.8,12,16GB RAM 64GB Storage 6.4-inch AMOLED 5G
+466,Noise Air Buds Pro 0466,Headphones,Noise,21200,3.7,38,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+467,Apple AirPods 2 0467,Headphones,Apple,40700,3.8,20,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+468,MSI Cyborg 15 0468,Laptop,MSI,48000,3.7,34,AMD Ryzen 7 8GB RAM 1024GB SSD
+469,OPPO A3 Pro 0469,Smartphone,OPPO,53000,4,22,6GB RAM 64GB Storage 6.7-inch AMOLED 5G
+470,Google Pixel 8 0470,Smartphone,Google,70000,4.2,33,12GB RAM 128GB Storage 6.1-inch AMOLED 5G
+471,OPPO A3 Pro 0471,Smartphone,OPPO,107000,4.5,11,8GB RAM 64GB Storage 6.7-inch AMOLED 5G
+472,HP Pavilion 15 0472,Laptop,HP,112000,4.8,22,AMD Ryzen 7 8GB RAM 1024GB SSD
+473,OPPO F27 Pro 0473,Smartphone,OPPO,120000,4.2,40,8GB RAM 64GB Storage 6.4-inch AMOLED 5G
+474,Noise Two Wireless 0474,Headphones,Noise,7200,4.6,19,TWS Bluetooth 5.3 ANC Wireless
+475,Realme Realme P1 0475,Smartphone,Realme,17000,4.8,36,16GB RAM 256GB Storage 6.1-inch AMOLED 5G
+476,Vivo Vivo V40 0476,Smartphone,Vivo,27000,4.8,30,8GB RAM 128GB Storage 6.4-inch AMOLED 5G
+477,Google Pixel 8a 0477,Smartphone,Google,93000,4.7,12,4GB RAM 512GB Storage 6.1-inch AMOLED 5G
+478,Noise Master Buds 0478,Headphones,Noise,9700,4.9,5,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+479,HP 15s 0479,Laptop,HP,80000,4.5,10,AMD Ryzen 7 32GB RAM 512GB SSD
+480,Dell Inspiron 15 0480,Laptop,Dell,117000,4.3,17,AMD Ryzen 7 16GB RAM 1024GB SSD
+481,Acer Aspire 7 0481,Laptop,Acer,110000,4.2,9,Intel Core Ultra 5 16GB RAM 512GB SSD
+482,Xiaomi Xiaomi 14 0482,Smartphone,Xiaomi,38000,4.4,23,16GB RAM 128GB Storage 6.4-inch AMOLED 5G
+483,MSI Thin 15 0483,Laptop,MSI,163000,4.4,25,Intel Core i7 32GB RAM 1024GB SSD
+484,Apple iPhone 15 Pro 0484,Smartphone,Apple,85000,4.8,31,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+485,Apple MacBook Pro 14 0485,Laptop,Apple,38000,4.3,5,Apple M3 16GB RAM 512GB SSD
+486,Samsung Galaxy S24 0486,Smartphone,Samsung,48000,4.5,14,6GB RAM 256GB Storage 6.4-inch AMOLED 5G
+487,OnePlus Buds Pro 2 0487,Headphones,OnePlus,29700,3.8,40,TWS Bluetooth 5.2 Adaptive ANC Wireless
+488,Sennheiser Momentum 4 0488,Headphones,Sennheiser,43700,3.8,29,TWS Bluetooth 5.4 Adaptive ANC Wireless
+489,Realme Realme GT 6 0489,Smartphone,Realme,91000,4.7,33,4GB RAM 256GB Storage 6.4-inch AMOLED 5G
+490,Realme Buds Air 6 0490,Headphones,Realme,29700,3.9,9,TWS Bluetooth 5.2 Adaptive ANC Wireless
+491,OnePlus OnePlus 12 0491,Smartphone,OnePlus,47000,4.4,13,12GB RAM 64GB Storage 6.7-inch AMOLED 5G
+492,Xiaomi Redmi Note 14 0492,Smartphone,Xiaomi,17000,3.9,25,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+493,Apple MacBook Pro 14 0493,Laptop,Apple,160000,4.6,22,Intel Core Ultra 5 32GB RAM 1024GB SSD
+494,Realme Realme 13 Pro 0494,Smartphone,Realme,32000,4.2,39,6GB RAM 64GB Storage 6.8-inch AMOLED 5G
+495,Lenovo IdeaPad Slim 5 0495,Laptop,Lenovo,119000,4.1,11,Intel Core Ultra 5 8GB RAM 1024GB SSD
+496,Noise Air Buds Pro 0496,Headphones,Noise,29700,4,44,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+497,Apple AirPods 3 0497,Headphones,Apple,8200,4.2,39,TWS Bluetooth 5.3 Adaptive ANC Wireless
+498,HP Pavilion Plus 0498,Laptop,HP,159000,3.8,33,AMD Ryzen 5 32GB RAM 1024GB SSD
+499,Lenovo IdeaPad 3 0499,Laptop,Lenovo,172000,4.3,25,Apple M3 8GB RAM 256GB SSD
+500,Google Pixel 8 0500,Smartphone,Google,118000,4.5,32,4GB RAM 128GB Storage 6.8-inch AMOLED 5G
+501,HP Victus 15 0501,Laptop,HP,119000,3.7,7,Apple M2 8GB RAM 512GB SSD
+502,Xiaomi Redmi Note 14 0502,Smartphone,Xiaomi,64000,4.2,30,16GB RAM 128GB Storage 6.5-inch AMOLED 5G
+503,HP 15s 0503,Laptop,HP,36000,4.5,24,AMD Ryzen 7 32GB RAM 256GB SSD
+504,Samsung Galaxy S24 0504,Smartphone,Samsung,112000,4.5,10,8GB RAM 64GB Storage 6.5-inch AMOLED 5G
+505,OPPO A3 Pro 0505,Smartphone,OPPO,32000,4.3,13,12GB RAM 64GB Storage 6.7-inch AMOLED 5G
+506,Apple MacBook Pro 14 0506,Laptop,Apple,111000,4.5,34,Intel Core i7 16GB RAM 1024GB SSD
+507,Realme Buds Air 5 0507,Headphones,Realme,8700,3.8,41,TWS Bluetooth 5.4 ANC Wireless
+508,Acer Aspire 5 0508,Laptop,Acer,123000,4,33,Apple M2 16GB RAM 256GB SSD
+509,Acer Aspire 7 0509,Laptop,Acer,99000,3.9,10,Intel Core i7 8GB RAM 256GB SSD
+510,Acer Aspire 5 0510,Laptop,Acer,175000,3.8,26,Apple M2 32GB RAM 512GB SSD
+511,Apple iPhone 15 Plus 0511,Smartphone,Apple,57000,3.9,20,16GB RAM 512GB Storage 6.5-inch AMOLED 5G
+512,Apple iPhone 15 Plus 0512,Smartphone,Apple,54000,4.4,24,8GB RAM 512GB Storage 6.7-inch AMOLED 5G
+513,Dell Vostro 15 0513,Laptop,Dell,36000,4.1,30,Intel Core i7 16GB RAM 512GB SSD
+514,Vivo Vivo T3 0514,Smartphone,Vivo,73000,4.3,27,8GB RAM 128GB Storage 6.5-inch AMOLED 5G
+515,Noise Air Buds Pro 0515,Headphones,Noise,6200,4.7,13,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+516,Apple AirPods 2 0516,Headphones,Apple,5700,4.8,37,TWS Bluetooth 5.4 ANC Wireless
+517,Apple MacBook Pro 14 0517,Laptop,Apple,89000,4.8,22,Apple M3 32GB RAM 512GB SSD
+518,OPPO Reno 11 0518,Smartphone,OPPO,110000,4.4,23,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+519,Apple iPhone 14 0519,Smartphone,Apple,120000,4.9,15,8GB RAM 64GB Storage 6.4-inch AMOLED 5G
+520,Boat Airdopes 141 0520,Headphones,Boat,37200,4.5,14,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+521,ASUS TUF Gaming F15 0521,Laptop,ASUS,159000,4,13,Apple M3 8GB RAM 256GB SSD
+522,Samsung Galaxy S24 FE 0522,Smartphone,Samsung,72000,4.8,7,16GB RAM 256GB Storage 6.7-inch AMOLED 5G
+523,Realme Realme GT 6 0523,Smartphone,Realme,86000,4.4,16,16GB RAM 256GB Storage 6.5-inch AMOLED 5G
+524,Vivo Vivo T3 0524,Smartphone,Vivo,44000,4.2,19,16GB RAM 64GB Storage 6.8-inch AMOLED 5G
+525,Lenovo LOQ 15 0525,Laptop,Lenovo,36000,4.3,9,AMD Ryzen 7 16GB RAM 512GB SSD
+526,Dell Inspiron 15 0526,Laptop,Dell,89000,3.9,10,Intel Core Ultra 5 32GB RAM 1024GB SSD
+527,Apple iPhone 15 Plus 0527,Smartphone,Apple,73000,4.5,35,12GB RAM 256GB Storage 6.1-inch AMOLED 5G
+528,OnePlus OnePlus Nord CE 4 0528,Smartphone,OnePlus,28000,4.4,15,4GB RAM 128GB Storage 6.1-inch AMOLED 5G
+529,Samsung Galaxy M55 0529,Smartphone,Samsung,45000,4.8,38,6GB RAM 64GB Storage 6.4-inch AMOLED 5G
+530,Sony WF-1000XM5 0530,Headphones,Sony,39700,4.9,35,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+531,Vivo Vivo V30 0531,Smartphone,Vivo,96000,4.3,15,16GB RAM 128GB Storage 6.8-inch AMOLED 5G
+532,Lenovo ThinkBook 15 0532,Laptop,Lenovo,93000,4.2,9,Intel Core i5 32GB RAM 1024GB SSD
+533,Google Pixel 8 0533,Smartphone,Google,72000,4.8,7,6GB RAM 64GB Storage 6.4-inch AMOLED 5G
+534,JBL Tune 770NC 0534,Headphones,JBL,39700,4.3,5,On-Ear Bluetooth 5.4 ANC Wireless
+535,Sennheiser Accentum 0535,Headphones,Sennheiser,34700,4.2,35,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+536,Sennheiser CX Plus 0536,Headphones,Sennheiser,37700,3.8,13,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+537,Google Pixel 9 0537,Smartphone,Google,36000,3.7,5,8GB RAM 512GB Storage 6.5-inch AMOLED 5G
+538,HP Pavilion 15 0538,Laptop,HP,115000,4.2,8,Intel Core i7 16GB RAM 1024GB SSD
+539,Xiaomi Xiaomi 14 0539,Smartphone,Xiaomi,58000,4.4,30,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+540,Sennheiser Accentum 0540,Headphones,Sennheiser,36700,4.3,24,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+541,Apple MacBook Pro 14 0541,Laptop,Apple,65000,4.6,19,Intel Core i7 16GB RAM 1024GB SSD
+542,Boat Rockerz 550 0542,Headphones,Boat,22700,4.7,44,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+543,MSI Modern 14 0543,Laptop,MSI,36000,4.7,31,Apple M2 8GB RAM 512GB SSD
+544,Vivo Vivo V40 0544,Smartphone,Vivo,59000,3.8,7,4GB RAM 256GB Storage 6.4-inch AMOLED 5G
+545,ASUS TUF Gaming F15 0545,Laptop,ASUS,79000,4.5,19,Intel Core i5 32GB RAM 1024GB SSD
+546,Xiaomi Redmi Note 13 Pro 0546,Smartphone,Xiaomi,33000,4.5,28,4GB RAM 128GB Storage 6.8-inch AMOLED 5G
+547,Samsung Galaxy S24 FE 0547,Smartphone,Samsung,57000,4.5,30,4GB RAM 256GB Storage 6.7-inch AMOLED 5G
+548,Acer Aspire 5 0548,Laptop,Acer,58000,4.4,28,Intel Core i5 32GB RAM 1024GB SSD
+549,Realme Buds T300 0549,Headphones,Realme,13200,4.2,30,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+550,Lenovo IdeaPad Slim 5 0550,Laptop,Lenovo,178000,3.8,14,Intel Core i5 16GB RAM 1024GB SSD
+551,Apple iPhone 13 0551,Smartphone,Apple,60000,4.4,20,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+552,Noise Master Buds 0552,Headphones,Noise,8200,4,29,TWS Bluetooth 5.2 Adaptive ANC Wireless
+553,Dell Inspiron 14 0553,Laptop,Dell,167000,4.3,27,Intel Core Ultra 5 16GB RAM 512GB SSD
+554,Apple AirPods 2 0554,Headphones,Apple,22700,3.8,16,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+555,Lenovo IdeaPad Slim 5 0555,Laptop,Lenovo,83000,4.3,11,Intel Core i7 32GB RAM 512GB SSD
+556,Google Pixel 8a 0556,Smartphone,Google,118000,4,27,6GB RAM 128GB Storage 6.4-inch AMOLED 5G
+557,Apple iPhone 15 0557,Smartphone,Apple,12000,4.6,39,4GB RAM 512GB Storage 6.8-inch AMOLED 5G
+558,Noise Two Wireless 0558,Headphones,Noise,37700,4.7,36,TWS Bluetooth 5.3 Adaptive ANC Wireless
+559,Xiaomi Poco X6 0559,Smartphone,Xiaomi,79000,4.7,35,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+560,Sony WF-1000XM5 0560,Headphones,Sony,30200,4.9,38,On-Ear Bluetooth 5.4 ANC Wireless
+561,MSI Modern 14 0561,Laptop,MSI,132000,4.4,15,Intel Core i7 8GB RAM 1024GB SSD
+562,Xiaomi Redmi Note 13 Pro 0562,Smartphone,Xiaomi,46000,4.3,26,16GB RAM 256GB Storage 6.4-inch AMOLED 5G
+563,OPPO A3 Pro 0563,Smartphone,OPPO,58000,4.7,22,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+564,Acer Aspire 7 0564,Laptop,Acer,60000,4.6,30,Intel Core i7 32GB RAM 1024GB SSD
+565,Vivo Vivo Y200 0565,Smartphone,Vivo,72000,4.7,16,6GB RAM 128GB Storage 6.4-inch AMOLED 5G
+566,Dell Vostro 15 0566,Laptop,Dell,178000,4.7,6,Intel Core Ultra 5 16GB RAM 512GB SSD
+567,OnePlus OnePlus 12 0567,Smartphone,OnePlus,119000,4.5,33,6GB RAM 256GB Storage 6.7-inch AMOLED 5G
+568,Lenovo LOQ 15 0568,Laptop,Lenovo,100000,4.1,18,AMD Ryzen 7 16GB RAM 1024GB SSD
+569,Google Pixel 9 Pro 0569,Smartphone,Google,98000,4.3,33,8GB RAM 256GB Storage 6.5-inch AMOLED 5G
+570,Sennheiser CX Plus 0570,Headphones,Sennheiser,11700,4.5,26,On-Ear Bluetooth 5.4 ANC Wireless
+571,Acer Nitro V 0571,Laptop,Acer,122000,4,15,Intel Core i7 8GB RAM 256GB SSD
+572,MSI Katana 15 0572,Laptop,MSI,104000,4.8,29,AMD Ryzen 5 32GB RAM 1024GB SSD
+573,Realme Buds Wireless 3 0573,Headphones,Realme,2200,3.9,20,On-Ear Bluetooth 5.2 ANC Wireless
+574,MSI Modern 14 0574,Laptop,MSI,61000,3.8,34,AMD Ryzen 5 8GB RAM 256GB SSD
+575,Sony WH-1000XM5 0575,Headphones,Sony,7700,4,14,On-Ear Bluetooth 5.4 ANC Wireless
+576,Vivo Vivo T3 0576,Smartphone,Vivo,68000,4.5,13,6GB RAM 128GB Storage 6.5-inch AMOLED 5G
+577,Dell Inspiron 15 0577,Laptop,Dell,118000,4.7,19,Intel Core Ultra 5 8GB RAM 1024GB SSD
+578,OnePlus Buds Z2 0578,Headphones,OnePlus,12200,4.4,34,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+579,MSI Cyborg 15 0579,Laptop,MSI,171000,4.1,16,Apple M2 32GB RAM 1024GB SSD
+580,Dell Inspiron 15 0580,Laptop,Dell,140000,4,14,Intel Core Ultra 5 16GB RAM 512GB SSD
+581,OnePlus OnePlus Nord 4 0581,Smartphone,OnePlus,13000,4.5,36,8GB RAM 512GB Storage 6.8-inch AMOLED 5G
+582,Noise Two Wireless 0582,Headphones,Noise,39200,4,5,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+583,Dell G15 0583,Laptop,Dell,98000,3.9,28,AMD Ryzen 5 32GB RAM 512GB SSD
+584,Apple MacBook Air 15 0584,Laptop,Apple,143000,4.5,21,Intel Core i5 8GB RAM 512GB SSD
+585,OnePlus Nord Buds 2 0585,Headphones,OnePlus,18200,4.2,9,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+586,Xiaomi Redmi Note 14 0586,Smartphone,Xiaomi,101000,4.4,17,12GB RAM 512GB Storage 6.5-inch AMOLED 5G
+587,OnePlus OnePlus 12 0587,Smartphone,OnePlus,25000,4,13,16GB RAM 64GB Storage 6.4-inch AMOLED 5G
+588,MSI Modern 14 0588,Laptop,MSI,38000,4.3,15,Intel Core i7 8GB RAM 256GB SSD
+589,Apple MacBook Air 15 0589,Laptop,Apple,43000,4.1,31,Apple M2 16GB RAM 512GB SSD
+590,Boat Rockerz 550 0590,Headphones,Boat,35700,4.3,17,On-Ear Bluetooth 5.3 ANC Wireless
+591,OnePlus Buds Z2 0591,Headphones,OnePlus,16700,4.2,33,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+592,Samsung Galaxy S24 FE 0592,Smartphone,Samsung,97000,4.9,35,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+593,Xiaomi Xiaomi 14 0593,Smartphone,Xiaomi,78000,3.8,35,6GB RAM 64GB Storage 6.8-inch AMOLED 5G
+594,Dell Vostro 15 0594,Laptop,Dell,63000,4,18,Intel Core i7 8GB RAM 1024GB SSD
+595,OnePlus OnePlus Nord 4 0595,Smartphone,OnePlus,113000,4,7,16GB RAM 64GB Storage 6.7-inch AMOLED 5G
+596,MSI Cyborg 15 0596,Laptop,MSI,130000,4.6,12,Intel Core i7 32GB RAM 1024GB SSD
+597,Apple iPhone 13 0597,Smartphone,Apple,57000,4.5,39,8GB RAM 64GB Storage 6.1-inch AMOLED 5G
+598,Boat Airdopes 141 0598,Headphones,Boat,42200,4.6,33,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+599,HP 15s 0599,Laptop,HP,99000,4.8,20,Intel Core i7 16GB RAM 1024GB SSD
+600,Acer Swift Go 14 0600,Laptop,Acer,83000,4.4,22,AMD Ryzen 5 32GB RAM 1024GB SSD
+601,OPPO F27 Pro 0601,Smartphone,OPPO,79000,3.9,23,16GB RAM 128GB Storage 6.1-inch AMOLED 5G
+602,Realme Buds Wireless 3 0602,Headphones,Realme,25200,4.6,6,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+603,Lenovo IdeaPad Slim 5 0603,Laptop,Lenovo,172000,4.7,11,Intel Core i5 16GB RAM 1024GB SSD
+604,ASUS VivoBook S14 0604,Laptop,ASUS,139000,4.5,8,Intel Core Ultra 5 32GB RAM 512GB SSD
+605,Apple iPhone 15 0605,Smartphone,Apple,37000,3.8,17,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+606,Vivo Vivo Y200 0606,Smartphone,Vivo,58000,4,9,16GB RAM 256GB Storage 6.1-inch AMOLED 5G
+607,Google Pixel 8 0607,Smartphone,Google,58000,4.4,31,4GB RAM 512GB Storage 6.1-inch AMOLED 5G
+608,Sony WF-1000XM5 0608,Headphones,Sony,5700,4.7,9,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+609,JBL Tune 770NC 0609,Headphones,JBL,25700,3.9,38,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+610,Acer Aspire 7 0610,Laptop,Acer,141000,4.6,29,AMD Ryzen 7 32GB RAM 1024GB SSD
+611,Lenovo ThinkBook 15 0611,Laptop,Lenovo,61000,3.9,10,AMD Ryzen 5 32GB RAM 1024GB SSD
+612,Acer Swift Go 14 0612,Laptop,Acer,148000,4.8,33,AMD Ryzen 7 32GB RAM 256GB SSD
+613,Realme Realme P1 0613,Smartphone,Realme,89000,4,39,12GB RAM 512GB Storage 6.5-inch AMOLED 5G
+614,Xiaomi Xiaomi 14 0614,Smartphone,Xiaomi,12000,4.6,23,12GB RAM 512GB Storage 6.7-inch AMOLED 5G
+615,Acer Aspire 7 0615,Laptop,Acer,91000,4,15,Intel Core Ultra 5 16GB RAM 256GB SSD
+616,Xiaomi Redmi Note 13 Pro 0616,Smartphone,Xiaomi,57000,3.9,21,4GB RAM 64GB Storage 6.7-inch AMOLED 5G
+617,Google Pixel 9 Pro 0617,Smartphone,Google,85000,4.2,18,8GB RAM 256GB Storage 6.1-inch AMOLED 5G
+618,MSI Katana 15 0618,Laptop,MSI,59000,4.4,14,AMD Ryzen 5 16GB RAM 256GB SSD
+619,Vivo Vivo V40 0619,Smartphone,Vivo,116000,4.2,12,4GB RAM 256GB Storage 6.5-inch AMOLED 5G
+620,Apple AirPods 3 0620,Headphones,Apple,4200,4.1,7,TWS Bluetooth 5.4 Adaptive ANC Wireless
+621,OnePlus OnePlus Nord 4 0621,Smartphone,OnePlus,18000,4.5,30,16GB RAM 128GB Storage 6.4-inch AMOLED 5G
+622,JBL Live 660NC 0622,Headphones,JBL,10200,3.9,10,On-Ear Bluetooth 5.3 Adaptive ANC Wireless
+623,MSI Modern 14 0623,Laptop,MSI,56000,4.2,18,Intel Core Ultra 5 32GB RAM 512GB SSD
+624,Boat Rockerz 450 0624,Headphones,Boat,32200,4.2,41,On-Ear Bluetooth 5.4 ANC Wireless
+625,Google Pixel 9 Pro 0625,Smartphone,Google,53000,4.5,10,4GB RAM 256GB Storage 6.7-inch AMOLED 5G
+626,Vivo Vivo Y200 0626,Smartphone,Vivo,53000,4.1,6,8GB RAM 256GB Storage 6.4-inch AMOLED 5G
+627,Boat Nirvana Ion 0627,Headphones,Boat,10200,4.2,19,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+628,Realme Realme 13 Pro 0628,Smartphone,Realme,43000,4.8,14,4GB RAM 64GB Storage 6.1-inch AMOLED 5G
+629,OnePlus Buds 3 0629,Headphones,OnePlus,20700,4.2,6,On-Ear Bluetooth 5.4 ANC Wireless
+630,Google Pixel 9 Pro 0630,Smartphone,Google,73000,4.4,14,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+631,MSI Modern 14 0631,Laptop,MSI,169000,3.8,10,Apple M2 16GB RAM 1024GB SSD
+632,Google Pixel 8a 0632,Smartphone,Google,20000,4.2,22,4GB RAM 512GB Storage 6.1-inch AMOLED 5G
+633,MSI Katana 15 0633,Laptop,MSI,133000,4,17,Intel Core Ultra 5 8GB RAM 256GB SSD
+634,MSI Modern 14 0634,Laptop,MSI,171000,3.8,11,Apple M3 16GB RAM 512GB SSD
+635,ASUS VivoBook 15 0635,Laptop,ASUS,113000,4.1,17,AMD Ryzen 7 8GB RAM 256GB SSD
+636,HP Pavilion Plus 0636,Laptop,HP,112000,4,21,Intel Core Ultra 5 32GB RAM 512GB SSD
+637,Samsung Galaxy A55 0637,Smartphone,Samsung,47000,4,26,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+638,Boat Rockerz 550 0638,Headphones,Boat,44200,4.4,45,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+639,ASUS VivoBook S14 0639,Laptop,ASUS,114000,4.8,15,AMD Ryzen 5 32GB RAM 256GB SSD
+640,Dell Inspiron 14 0640,Laptop,Dell,173000,4.5,11,AMD Ryzen 7 32GB RAM 256GB SSD
+641,OnePlus Buds Pro 2 0641,Headphones,OnePlus,37200,4.8,25,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+642,Apple iPhone 15 Plus 0642,Smartphone,Apple,109000,4.1,31,8GB RAM 128GB Storage 6.1-inch AMOLED 5G
+643,OnePlus Buds Z2 0643,Headphones,OnePlus,18700,3.9,17,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+644,OnePlus OnePlus 12 0644,Smartphone,OnePlus,84000,4.4,19,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+645,Samsung Galaxy A55 0645,Smartphone,Samsung,76000,4.7,35,4GB RAM 512GB Storage 6.4-inch AMOLED 5G
+646,Lenovo IdeaPad Slim 5 0646,Laptop,Lenovo,70000,3.9,12,AMD Ryzen 5 16GB RAM 512GB SSD
+647,Samsung Galaxy A55 0647,Smartphone,Samsung,108000,3.9,16,12GB RAM 128GB Storage 6.4-inch AMOLED 5G
+648,Noise Master Buds 0648,Headphones,Noise,16700,4.2,7,TWS Bluetooth 5.3 Adaptive ANC Wireless
+649,Apple MacBook Air 15 0649,Laptop,Apple,172000,4.3,33,AMD Ryzen 5 32GB RAM 512GB SSD
+650,HP Pavilion 15 0650,Laptop,HP,45000,4.8,12,Apple M3 16GB RAM 512GB SSD
+651,ASUS VivoBook 15 0651,Laptop,ASUS,47000,3.9,19,AMD Ryzen 7 32GB RAM 512GB SSD
+652,Xiaomi Xiaomi 14 0652,Smartphone,Xiaomi,49000,4.4,8,12GB RAM 128GB Storage 6.7-inch AMOLED 5G
+653,Dell G15 0653,Laptop,Dell,163000,3.8,29,Intel Core i5 32GB RAM 512GB SSD
+654,MSI Thin 15 0654,Laptop,MSI,150000,3.7,19,Intel Core Ultra 5 16GB RAM 512GB SSD
+655,MSI Thin 15 0655,Laptop,MSI,117000,4.5,34,Intel Core Ultra 5 16GB RAM 256GB SSD
+656,Dell Inspiron 15 0656,Laptop,Dell,150000,4.5,7,Apple M2 8GB RAM 256GB SSD
+657,ASUS VivoBook S14 0657,Laptop,ASUS,46000,4.6,34,AMD Ryzen 5 16GB RAM 1024GB SSD
+658,OnePlus OnePlus 12R 0658,Smartphone,OnePlus,65000,4.1,33,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+659,OnePlus OnePlus 12 0659,Smartphone,OnePlus,91000,4.6,5,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+660,Apple MacBook Air 15 0660,Laptop,Apple,161000,4,23,AMD Ryzen 7 32GB RAM 256GB SSD
+661,ASUS ROG Strix G16 0661,Laptop,ASUS,36000,4,22,AMD Ryzen 7 16GB RAM 256GB SSD
+662,Google Pixel 9 0662,Smartphone,Google,95000,4.1,14,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+663,OnePlus Nord Buds 2 0663,Headphones,OnePlus,27700,4.9,15,Over-Ear Bluetooth 5.2 ANC Wireless
+664,Acer Aspire 7 0664,Laptop,Acer,127000,4.8,7,AMD Ryzen 7 16GB RAM 1024GB SSD
+665,Realme Buds T300 0665,Headphones,Realme,36200,3.8,35,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+666,Xiaomi Xiaomi 14 0666,Smartphone,Xiaomi,38000,4.5,8,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+667,Apple iPhone 14 0667,Smartphone,Apple,89000,4.7,21,16GB RAM 256GB Storage 6.7-inch AMOLED 5G
+668,Acer Swift Go 14 0668,Laptop,Acer,162000,4.3,25,AMD Ryzen 7 8GB RAM 1024GB SSD
+669,Apple MacBook Air 13 0669,Laptop,Apple,109000,4.9,5,Apple M2 32GB RAM 256GB SSD
+670,OPPO Reno 12 0670,Smartphone,OPPO,17000,4.1,40,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+671,Apple AirPods 3 0671,Headphones,Apple,19200,4,9,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+672,Realme Realme GT 6 0672,Smartphone,Realme,62000,4.6,6,4GB RAM 256GB Storage 6.5-inch AMOLED 5G
+673,Apple AirPods 2 0673,Headphones,Apple,31200,4.7,13,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+674,MSI Cyborg 15 0674,Laptop,MSI,140000,4.8,6,AMD Ryzen 5 32GB RAM 512GB SSD
+675,OnePlus Nord Buds 2 0675,Headphones,OnePlus,14200,4.4,26,TWS Bluetooth 5.4 ANC Wireless
+676,Realme Buds Air 5 0676,Headphones,Realme,22700,4.9,45,Over-Ear Bluetooth 5.3 ANC Wireless
+677,Dell G15 0677,Laptop,Dell,113000,4.5,15,Intel Core i5 8GB RAM 1024GB SSD
+678,Lenovo ThinkBook 15 0678,Laptop,Lenovo,130000,4.2,35,Intel Core i7 8GB RAM 512GB SSD
+679,Xiaomi Redmi Note 13 Pro 0679,Smartphone,Xiaomi,111000,3.9,10,4GB RAM 256GB Storage 6.1-inch AMOLED 5G
+680,HP 15s 0680,Laptop,HP,122000,4.8,28,Intel Core i7 32GB RAM 256GB SSD
+681,OnePlus Nord Buds 2 0681,Headphones,OnePlus,44200,4.9,18,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+682,ASUS ROG Strix G16 0682,Laptop,ASUS,36000,4.1,6,Intel Core i5 32GB RAM 1024GB SSD
+683,Acer Aspire 5 0683,Laptop,Acer,61000,4.3,26,Intel Core i5 16GB RAM 512GB SSD
+684,HP Pavilion Plus 0684,Laptop,HP,86000,3.9,13,Intel Core Ultra 5 32GB RAM 256GB SSD
+685,Apple MacBook Air 15 0685,Laptop,Apple,73000,3.9,8,Intel Core Ultra 5 32GB RAM 256GB SSD
+686,Apple iPhone 15 Plus 0686,Smartphone,Apple,52000,4,23,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+687,Dell Inspiron 15 0687,Laptop,Dell,173000,4.2,9,Intel Core Ultra 5 16GB RAM 1024GB SSD
+688,Samsung Galaxy S24 0688,Smartphone,Samsung,66000,4.2,33,12GB RAM 64GB Storage 6.1-inch AMOLED 5G
+689,Lenovo LOQ 15 0689,Laptop,Lenovo,171000,3.8,34,Apple M3 8GB RAM 1024GB SSD
+690,Noise Buds VS104 0690,Headphones,Noise,7200,4.2,34,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+691,Dell Inspiron 14 0691,Laptop,Dell,135000,3.9,34,Intel Core Ultra 5 32GB RAM 512GB SSD
+692,Apple MacBook Air 15 0692,Laptop,Apple,51000,4.3,16,Intel Core i5 16GB RAM 512GB SSD
+693,Apple MacBook Air 13 0693,Laptop,Apple,67000,4.3,17,AMD Ryzen 7 16GB RAM 512GB SSD
+694,JBL Tune 760NC 0694,Headphones,JBL,20200,4.3,30,TWS Bluetooth 5.4 ANC Wireless
+695,Dell Inspiron 14 0695,Laptop,Dell,133000,3.8,11,AMD Ryzen 5 32GB RAM 256GB SSD
+696,Sennheiser Accentum 0696,Headphones,Sennheiser,16200,3.9,9,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+697,MSI Cyborg 15 0697,Laptop,MSI,153000,4.1,8,AMD Ryzen 7 8GB RAM 1024GB SSD
+698,Boat Nirvana Ion 0698,Headphones,Boat,7700,4.5,43,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+699,Sennheiser CX Plus 0699,Headphones,Sennheiser,4700,3.8,13,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+700,Sony WH-CH720N 0700,Headphones,Sony,35200,4,44,TWS Bluetooth 5.2 Adaptive ANC Wireless
+701,Dell Inspiron 14 0701,Laptop,Dell,180000,4.7,26,Intel Core Ultra 5 32GB RAM 512GB SSD
+702,Vivo Vivo T3 0702,Smartphone,Vivo,77000,4.2,13,4GB RAM 64GB Storage 6.8-inch AMOLED 5G
+703,Sony WF-1000XM5 0703,Headphones,Sony,36700,4.7,27,TWS Bluetooth 5.2 ANC Wireless
+704,Xiaomi Redmi Note 14 0704,Smartphone,Xiaomi,62000,4.5,29,6GB RAM 512GB Storage 6.8-inch AMOLED 5G
+705,ASUS VivoBook S14 0705,Laptop,ASUS,70000,3.9,17,AMD Ryzen 5 32GB RAM 256GB SSD
+706,Realme Buds Wireless 3 0706,Headphones,Realme,9200,3.9,9,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+707,Dell G15 0707,Laptop,Dell,56000,3.9,30,Intel Core i7 32GB RAM 512GB SSD
+708,ASUS ROG Strix G16 0708,Laptop,ASUS,165000,4.2,31,AMD Ryzen 5 32GB RAM 256GB SSD
+709,Lenovo IdeaPad Slim 5 0709,Laptop,Lenovo,36000,4.4,32,AMD Ryzen 7 8GB RAM 512GB SSD
+710,MSI Katana 15 0710,Laptop,MSI,128000,3.7,6,AMD Ryzen 7 16GB RAM 1024GB SSD
+711,MSI Katana 15 0711,Laptop,MSI,55000,3.9,28,AMD Ryzen 5 8GB RAM 1024GB SSD
+712,Apple MacBook Air 15 0712,Laptop,Apple,168000,4.8,7,Intel Core i5 16GB RAM 1024GB SSD
+713,Apple iPhone 13 0713,Smartphone,Apple,18000,4.8,39,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+714,Noise Master Buds 0714,Headphones,Noise,22200,4.2,23,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+715,Samsung Galaxy M55 0715,Smartphone,Samsung,92000,4.3,15,8GB RAM 256GB Storage 6.1-inch AMOLED 5G
+716,MSI Katana 15 0716,Laptop,MSI,108000,4.3,9,Intel Core i5 32GB RAM 1024GB SSD
+717,Apple MacBook Air 15 0717,Laptop,Apple,106000,4,13,AMD Ryzen 7 16GB RAM 256GB SSD
+718,Apple iPhone 13 0718,Smartphone,Apple,59000,4.7,21,6GB RAM 128GB Storage 6.7-inch AMOLED 5G
+719,Apple AirPods Max 0719,Headphones,Apple,22700,4.9,14,Over-Ear Bluetooth 5.4 ANC Wireless
+720,Apple MacBook Air 13 0720,Laptop,Apple,133000,4,19,Apple M3 16GB RAM 512GB SSD
+721,Dell Inspiron 14 0721,Laptop,Dell,123000,3.8,13,Apple M3 32GB RAM 1024GB SSD
+722,JBL Tune 770NC 0722,Headphones,JBL,31200,4.1,39,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+723,Vivo Vivo Y200 0723,Smartphone,Vivo,67000,3.7,33,8GB RAM 128GB Storage 6.8-inch AMOLED 5G
+724,Realme Realme GT 6 0724,Smartphone,Realme,90000,4.8,22,4GB RAM 256GB Storage 6.7-inch AMOLED 5G
+725,Xiaomi Redmi Note 14 0725,Smartphone,Xiaomi,110000,4.5,20,8GB RAM 512GB Storage 6.7-inch AMOLED 5G
+726,Acer Aspire 7 0726,Laptop,Acer,81000,4.1,5,Apple M2 32GB RAM 512GB SSD
+727,Apple MacBook Air 13 0727,Laptop,Apple,169000,3.8,19,Intel Core i5 8GB RAM 512GB SSD
+728,Xiaomi Xiaomi 14 0728,Smartphone,Xiaomi,91000,3.8,18,6GB RAM 64GB Storage 6.1-inch AMOLED 5G
+729,JBL Tune 770NC 0729,Headphones,JBL,25200,4.5,41,Over-Ear Bluetooth 5.4 ANC Wireless
+730,Boat Rockerz 550 0730,Headphones,Boat,19700,4.3,9,TWS Bluetooth 5.2 Adaptive ANC Wireless
+731,Lenovo ThinkBook 15 0731,Laptop,Lenovo,117000,4,29,Apple M3 32GB RAM 1024GB SSD
+732,Samsung Galaxy A35 0732,Smartphone,Samsung,45000,4.8,21,12GB RAM 256GB Storage 6.1-inch AMOLED 5G
+733,Apple iPhone 14 0733,Smartphone,Apple,94000,4.3,14,6GB RAM 512GB Storage 6.4-inch AMOLED 5G
+734,ASUS VivoBook S14 0734,Laptop,ASUS,148000,4.6,8,Intel Core i5 32GB RAM 1024GB SSD
+735,Apple iPhone 13 0735,Smartphone,Apple,75000,3.9,5,8GB RAM 512GB Storage 6.1-inch AMOLED 5G
+736,Sennheiser CX Plus 0736,Headphones,Sennheiser,26200,4.4,37,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+737,Apple MacBook Air 15 0737,Laptop,Apple,52000,4.3,5,AMD Ryzen 5 16GB RAM 512GB SSD
+738,OPPO Reno 12 0738,Smartphone,OPPO,99000,4.1,8,16GB RAM 256GB Storage 6.5-inch AMOLED 5G
+739,MSI Modern 14 0739,Laptop,MSI,122000,3.8,19,Apple M3 16GB RAM 1024GB SSD
+740,OnePlus Buds Pro 2 0740,Headphones,OnePlus,25700,4.5,24,Over-Ear Bluetooth 5.4 ANC Wireless
+741,HP Pavilion Plus 0741,Laptop,HP,147000,4.6,9,Apple M2 16GB RAM 256GB SSD
+742,Samsung Galaxy M55 0742,Smartphone,Samsung,20000,4.7,24,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+743,Apple MacBook Air 15 0743,Laptop,Apple,49000,4.1,28,Intel Core Ultra 5 8GB RAM 256GB SSD
+744,Apple iPhone 15 Plus 0744,Smartphone,Apple,31000,4.6,19,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+745,Sony WH-CH720N 0745,Headphones,Sony,31200,4.8,44,On-Ear Bluetooth 5.4 ANC Wireless
+746,OnePlus OnePlus 12 0746,Smartphone,OnePlus,117000,4.7,34,6GB RAM 64GB Storage 6.5-inch AMOLED 5G
+747,Apple MacBook Pro 14 0747,Laptop,Apple,162000,4.4,24,Intel Core i5 8GB RAM 256GB SSD
+748,Google Pixel 8 0748,Smartphone,Google,27000,4.9,39,8GB RAM 512GB Storage 6.5-inch AMOLED 5G
+749,Google Pixel 9 0749,Smartphone,Google,20000,3.8,14,16GB RAM 128GB Storage 6.5-inch AMOLED 5G
+750,Boat Nirvana Ion 0750,Headphones,Boat,16700,4.8,7,TWS Bluetooth 5.2 Adaptive ANC Wireless
+751,Vivo Vivo V30 0751,Smartphone,Vivo,12000,3.7,10,4GB RAM 512GB Storage 6.1-inch AMOLED 5G
+752,Acer Swift Go 14 0752,Laptop,Acer,156000,4.5,11,Apple M3 16GB RAM 1024GB SSD
+753,Xiaomi Poco X6 0753,Smartphone,Xiaomi,90000,4.5,16,12GB RAM 128GB Storage 6.4-inch AMOLED 5G
+754,Acer Aspire 5 0754,Laptop,Acer,142000,3.7,12,Intel Core Ultra 5 32GB RAM 512GB SSD
+755,Apple iPhone 13 0755,Smartphone,Apple,110000,4.5,18,8GB RAM 128GB Storage 6.7-inch AMOLED 5G
+756,Google Pixel 9 0756,Smartphone,Google,34000,3.9,7,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+757,Realme Realme P1 0757,Smartphone,Realme,54000,4.4,34,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+758,Samsung Galaxy M55 0758,Smartphone,Samsung,74000,4.3,9,6GB RAM 128GB Storage 6.1-inch AMOLED 5G
+759,Noise Two Wireless 0759,Headphones,Noise,44200,4.8,19,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+760,Realme Buds Air 6 0760,Headphones,Realme,27200,4.7,29,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+761,JBL Wave Beam 0761,Headphones,JBL,28700,3.9,44,TWS Bluetooth 5.3 ANC Wireless
+762,ASUS TUF Gaming F15 0762,Laptop,ASUS,84000,4.5,13,Apple M2 8GB RAM 512GB SSD
+763,OnePlus OnePlus 12 0763,Smartphone,OnePlus,29000,3.8,34,16GB RAM 64GB Storage 6.5-inch AMOLED 5G
+764,Dell Vostro 15 0764,Laptop,Dell,75000,4.6,25,AMD Ryzen 7 8GB RAM 512GB SSD
+765,Boat Rockerz 450 0765,Headphones,Boat,32200,4.7,18,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+766,Apple MacBook Air 15 0766,Laptop,Apple,144000,4.6,12,Apple M2 16GB RAM 256GB SSD
+767,Vivo Vivo V30 0767,Smartphone,Vivo,12000,4.2,7,16GB RAM 128GB Storage 6.8-inch AMOLED 5G
+768,OPPO Reno 12 0768,Smartphone,OPPO,115000,4.7,11,12GB RAM 512GB Storage 6.7-inch AMOLED 5G
+769,Dell Inspiron 15 0769,Laptop,Dell,139000,4.8,9,Apple M2 32GB RAM 256GB SSD
+770,Google Pixel 9 0770,Smartphone,Google,32000,4.5,6,4GB RAM 512GB Storage 6.5-inch AMOLED 5G
+771,Noise Buds VS104 0771,Headphones,Noise,24700,4.5,45,TWS Bluetooth 5.3 ANC Wireless
+772,Apple iPhone 14 0772,Smartphone,Apple,66000,4.6,39,8GB RAM 64GB Storage 6.5-inch AMOLED 5G
+773,Dell Inspiron 15 0773,Laptop,Dell,49000,4.3,34,Apple M2 32GB RAM 512GB SSD
+774,HP Pavilion 15 0774,Laptop,HP,45000,4.1,10,AMD Ryzen 5 16GB RAM 512GB SSD
+775,MSI Modern 14 0775,Laptop,MSI,87000,3.9,15,Apple M3 32GB RAM 1024GB SSD
+776,Apple iPhone 14 0776,Smartphone,Apple,53000,4.1,22,16GB RAM 128GB Storage 6.4-inch AMOLED 5G
+777,ASUS TUF Gaming F15 0777,Laptop,ASUS,123000,4.2,21,Intel Core Ultra 5 8GB RAM 256GB SSD
+778,HP 15s 0778,Laptop,HP,171000,4.8,19,Apple M2 32GB RAM 1024GB SSD
+779,Apple MacBook Pro 14 0779,Laptop,Apple,152000,3.8,17,Intel Core i7 32GB RAM 256GB SSD
+780,OnePlus Buds 3 0780,Headphones,OnePlus,8200,4.5,36,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+781,Google Pixel 9 0781,Smartphone,Google,28000,4.3,31,8GB RAM 512GB Storage 6.8-inch AMOLED 5G
+782,MSI Modern 14 0782,Laptop,MSI,40000,4.7,12,Intel Core i5 16GB RAM 256GB SSD
+783,Realme Buds Wireless 3 0783,Headphones,Realme,42200,4.6,36,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+784,MSI Cyborg 15 0784,Laptop,MSI,68000,4.8,14,AMD Ryzen 7 16GB RAM 512GB SSD
+785,Xiaomi Redmi Note 13 Pro 0785,Smartphone,Xiaomi,110000,4.7,14,12GB RAM 256GB Storage 6.5-inch AMOLED 5G
+786,OPPO Reno 11 0786,Smartphone,OPPO,48000,3.9,16,16GB RAM 128GB Storage 6.8-inch AMOLED 5G
+787,Boat Rockerz 450 0787,Headphones,Boat,21200,4.4,33,Over-Ear Bluetooth 5.2 ANC Wireless
+788,OnePlus OnePlus 12R 0788,Smartphone,OnePlus,56000,3.9,33,16GB RAM 64GB Storage 6.5-inch AMOLED 5G
+789,Dell Vostro 15 0789,Laptop,Dell,162000,4.6,35,AMD Ryzen 5 8GB RAM 256GB SSD
+790,Lenovo IdeaPad Slim 5 0790,Laptop,Lenovo,164000,4.1,27,AMD Ryzen 7 8GB RAM 1024GB SSD
+791,Xiaomi Redmi Note 13 Pro 0791,Smartphone,Xiaomi,100000,3.8,35,16GB RAM 512GB Storage 6.5-inch AMOLED 5G
+792,Boat Rockerz 550 0792,Headphones,Boat,40700,4.7,33,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+793,Realme Realme GT 6 0793,Smartphone,Realme,79000,4,22,16GB RAM 128GB Storage 6.8-inch AMOLED 5G
+794,Apple iPhone 13 0794,Smartphone,Apple,62000,3.9,25,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+795,Acer Aspire 5 0795,Laptop,Acer,72000,4.6,18,AMD Ryzen 5 32GB RAM 512GB SSD
+796,Realme Realme GT 6 0796,Smartphone,Realme,51000,4.9,40,8GB RAM 256GB Storage 6.5-inch AMOLED 5G
+797,OPPO A3 Pro 0797,Smartphone,OPPO,115000,4.6,32,12GB RAM 256GB Storage 6.4-inch AMOLED 5G
+798,ASUS VivoBook S14 0798,Laptop,ASUS,71000,3.9,20,Intel Core i5 32GB RAM 1024GB SSD
+799,Realme Buds Air 5 0799,Headphones,Realme,1200,4.2,22,TWS Bluetooth 5.3 ANC Wireless
+800,Acer Nitro V 0800,Laptop,Acer,70000,3.9,31,Apple M3 32GB RAM 1024GB SSD
+801,OPPO Reno 12 0801,Smartphone,OPPO,83000,4.6,19,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+802,Samsung Galaxy S24 FE 0802,Smartphone,Samsung,27000,4.5,23,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+803,ASUS VivoBook S14 0803,Laptop,ASUS,105000,4.3,7,Apple M3 8GB RAM 256GB SSD
+804,Lenovo ThinkBook 15 0804,Laptop,Lenovo,101000,4.5,20,Apple M3 32GB RAM 512GB SSD
+805,JBL Tune 760NC 0805,Headphones,JBL,2200,4.7,15,TWS Bluetooth 5.4 Passive Noise Isolation Wireless
+806,Dell Vostro 15 0806,Laptop,Dell,126000,3.9,13,Intel Core i7 16GB RAM 1024GB SSD
+807,Realme Realme GT 6 0807,Smartphone,Realme,93000,4.8,37,8GB RAM 256GB Storage 6.8-inch AMOLED 5G
+808,OnePlus OnePlus 12 0808,Smartphone,OnePlus,53000,4.7,24,16GB RAM 128GB Storage 6.8-inch AMOLED 5G
+809,Realme Realme GT 6 0809,Smartphone,Realme,13000,3.9,23,16GB RAM 256GB Storage 6.4-inch AMOLED 5G
+810,OPPO A3 Pro 0810,Smartphone,OPPO,39000,3.9,19,8GB RAM 128GB Storage 6.1-inch AMOLED 5G
+811,JBL Wave Beam 0811,Headphones,JBL,9200,4.8,35,On-Ear Bluetooth 5.2 ANC Wireless
+812,Realme Realme 13 Pro 0812,Smartphone,Realme,102000,4.1,12,12GB RAM 256GB Storage 6.4-inch AMOLED 5G
+813,OnePlus OnePlus 12R 0813,Smartphone,OnePlus,28000,4.9,32,8GB RAM 128GB Storage 6.4-inch AMOLED 5G
+814,Apple MacBook Air 13 0814,Laptop,Apple,158000,4.6,6,Apple M3 8GB RAM 256GB SSD
+815,Samsung Galaxy M55 0815,Smartphone,Samsung,27000,4.8,7,16GB RAM 64GB Storage 6.7-inch AMOLED 5G
+816,Samsung Galaxy S24 0816,Smartphone,Samsung,37000,3.9,27,4GB RAM 128GB Storage 6.8-inch AMOLED 5G
+817,OnePlus OnePlus Nord 4 0817,Smartphone,OnePlus,32000,4.7,20,16GB RAM 256GB Storage 6.5-inch AMOLED 5G
+818,HP Pavilion 15 0818,Laptop,HP,90000,4.6,35,AMD Ryzen 7 32GB RAM 256GB SSD
+819,Samsung Galaxy S24 0819,Smartphone,Samsung,101000,4.4,33,6GB RAM 512GB Storage 6.5-inch AMOLED 5G
+820,HP Victus 15 0820,Laptop,HP,89000,4.3,18,AMD Ryzen 5 16GB RAM 512GB SSD
+821,Realme Realme GT 6 0821,Smartphone,Realme,29000,4.3,28,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+822,Acer Aspire 5 0822,Laptop,Acer,64000,4.2,19,AMD Ryzen 5 8GB RAM 512GB SSD
+823,Lenovo ThinkBook 15 0823,Laptop,Lenovo,109000,4.9,18,AMD Ryzen 5 8GB RAM 1024GB SSD
+824,Apple iPhone 14 0824,Smartphone,Apple,98000,4.3,11,8GB RAM 128GB Storage 6.1-inch AMOLED 5G
+825,Apple iPhone 15 0825,Smartphone,Apple,100000,4.4,11,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+826,Dell Inspiron 15 0826,Laptop,Dell,86000,4.4,17,Intel Core Ultra 5 16GB RAM 256GB SSD
+827,Vivo Vivo Y200 0827,Smartphone,Vivo,57000,4.3,30,8GB RAM 256GB Storage 6.7-inch AMOLED 5G
+828,OnePlus Buds Pro 2 0828,Headphones,OnePlus,17200,4.3,19,On-Ear Bluetooth 5.2 ANC Wireless
+829,Dell Inspiron 15 0829,Laptop,Dell,52000,4.3,5,Intel Core i5 8GB RAM 1024GB SSD
+830,Sennheiser CX Plus 0830,Headphones,Sennheiser,40700,3.8,9,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+831,Acer Nitro V 0831,Laptop,Acer,162000,4.3,13,Intel Core Ultra 5 16GB RAM 256GB SSD
+832,Apple MacBook Pro 14 0832,Laptop,Apple,43000,4.9,33,Apple M3 32GB RAM 256GB SSD
+833,Sennheiser Accentum 0833,Headphones,Sennheiser,30200,3.7,16,On-Ear Bluetooth 5.3 Adaptive ANC Wireless
+834,Apple MacBook Air 15 0834,Laptop,Apple,145000,3.9,27,AMD Ryzen 5 32GB RAM 256GB SSD
+835,Apple iPhone 13 0835,Smartphone,Apple,83000,4.7,37,12GB RAM 512GB Storage 6.7-inch AMOLED 5G
+836,Xiaomi Poco X6 0836,Smartphone,Xiaomi,98000,4.1,23,16GB RAM 512GB Storage 6.8-inch AMOLED 5G
+837,Samsung Galaxy M55 0837,Smartphone,Samsung,56000,4.7,6,4GB RAM 128GB Storage 6.5-inch AMOLED 5G
+838,Realme Buds Wireless 3 0838,Headphones,Realme,23700,4.2,8,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+839,Dell Inspiron 14 0839,Laptop,Dell,56000,4.8,7,AMD Ryzen 7 32GB RAM 512GB SSD
+840,JBL Tune 760NC 0840,Headphones,JBL,21700,3.7,32,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+841,ASUS TUF Gaming F15 0841,Laptop,ASUS,40000,4.9,17,AMD Ryzen 5 8GB RAM 1024GB SSD
+842,Lenovo IdeaPad 3 0842,Laptop,Lenovo,87000,4.1,21,Apple M2 16GB RAM 256GB SSD
+843,Realme Buds Air 6 0843,Headphones,Realme,28700,3.9,45,TWS Bluetooth 5.3 Adaptive ANC Wireless
+844,JBL Live 660NC 0844,Headphones,JBL,20200,4.9,30,On-Ear Bluetooth 5.3 ANC Wireless
+845,JBL Tune 770NC 0845,Headphones,JBL,5200,4.4,38,TWS Bluetooth 5.3 Adaptive ANC Wireless
+846,Dell Vostro 15 0846,Laptop,Dell,112000,4.3,14,Apple M3 8GB RAM 1024GB SSD
+847,Acer Swift Go 14 0847,Laptop,Acer,99000,4.4,19,AMD Ryzen 5 8GB RAM 512GB SSD
+848,Acer Aspire 7 0848,Laptop,Acer,167000,4.7,23,Apple M2 8GB RAM 1024GB SSD
+849,MSI Cyborg 15 0849,Laptop,MSI,146000,4.8,28,AMD Ryzen 7 16GB RAM 1024GB SSD
+850,Acer Aspire 7 0850,Laptop,Acer,96000,3.9,26,Intel Core i7 16GB RAM 512GB SSD
+851,Sennheiser Accentum 0851,Headphones,Sennheiser,14200,4.7,22,On-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+852,Boat Nirvana Ion 0852,Headphones,Boat,26700,4,14,TWS Bluetooth 5.4 ANC Wireless
+853,Google Pixel 8a 0853,Smartphone,Google,67000,4.2,7,12GB RAM 512GB Storage 6.8-inch AMOLED 5G
+854,Xiaomi Redmi Note 13 Pro 0854,Smartphone,Xiaomi,96000,4.4,7,4GB RAM 256GB Storage 6.5-inch AMOLED 5G
+855,Noise Air Buds Pro 0855,Headphones,Noise,39700,4.1,9,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+856,Sennheiser CX Plus 0856,Headphones,Sennheiser,26200,4.8,13,TWS Bluetooth 5.4 ANC Wireless
+857,Apple iPhone 13 0857,Smartphone,Apple,23000,4,12,16GB RAM 256GB Storage 6.7-inch AMOLED 5G
+858,Realme Buds T300 0858,Headphones,Realme,16200,4.8,18,TWS Bluetooth 5.4 Adaptive ANC Wireless
+859,OnePlus OnePlus 12R 0859,Smartphone,OnePlus,44000,4.7,8,8GB RAM 512GB Storage 6.7-inch AMOLED 5G
+860,Lenovo IdeaPad 3 0860,Laptop,Lenovo,156000,4.5,35,AMD Ryzen 5 16GB RAM 1024GB SSD
+861,OnePlus OnePlus Nord 4 0861,Smartphone,OnePlus,14000,4.5,7,12GB RAM 256GB Storage 6.5-inch AMOLED 5G
+862,Sony WH-CH720N 0862,Headphones,Sony,20700,4.5,28,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+863,JBL Live 660NC 0863,Headphones,JBL,26200,4.8,21,On-Ear Bluetooth 5.3 ANC Wireless
+864,Google Pixel 8a 0864,Smartphone,Google,92000,4.1,31,6GB RAM 128GB Storage 6.7-inch AMOLED 5G
+865,OnePlus Buds 3 0865,Headphones,OnePlus,27200,4.8,26,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+866,Apple MacBook Air 13 0866,Laptop,Apple,164000,3.8,18,Intel Core Ultra 5 8GB RAM 1024GB SSD
+867,Apple MacBook Pro 14 0867,Laptop,Apple,42000,4.6,25,AMD Ryzen 5 32GB RAM 512GB SSD
+868,MSI Cyborg 15 0868,Laptop,MSI,137000,3.9,14,Intel Core i5 32GB RAM 256GB SSD
+869,Apple iPhone 15 0869,Smartphone,Apple,103000,4.9,13,6GB RAM 128GB Storage 6.8-inch AMOLED 5G
+870,Sennheiser CX Plus 0870,Headphones,Sennheiser,9700,4,42,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+871,OnePlus Buds Pro 2 0871,Headphones,OnePlus,12700,4.2,29,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+872,Apple AirPods 3 0872,Headphones,Apple,40200,4.5,10,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+873,Apple AirPods 2 0873,Headphones,Apple,26700,4.4,43,TWS Bluetooth 5.2 ANC Wireless
+874,Apple iPhone 15 Pro 0874,Smartphone,Apple,103000,4.3,34,6GB RAM 64GB Storage 6.1-inch AMOLED 5G
+875,Noise Air Buds Pro 0875,Headphones,Noise,13200,4.8,22,Over-Ear Bluetooth 5.4 ANC Wireless
+876,OPPO A3 Pro 0876,Smartphone,OPPO,88000,4,23,6GB RAM 512GB Storage 6.4-inch AMOLED 5G
+877,Dell G15 0877,Laptop,Dell,72000,3.7,13,Apple M3 8GB RAM 512GB SSD
+878,OPPO Reno 11 0878,Smartphone,OPPO,13000,4.3,25,8GB RAM 512GB Storage 6.1-inch AMOLED 5G
+879,Sennheiser Momentum 4 0879,Headphones,Sennheiser,28200,4.6,21,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+880,Samsung Galaxy S24 0880,Smartphone,Samsung,57000,4.9,7,8GB RAM 128GB Storage 6.7-inch AMOLED 5G
+881,Vivo Vivo T3 0881,Smartphone,Vivo,83000,3.7,16,12GB RAM 256GB Storage 6.4-inch AMOLED 5G
+882,OPPO F27 Pro 0882,Smartphone,OPPO,52000,4.6,32,12GB RAM 128GB Storage 6.1-inch AMOLED 5G
+883,Apple iPhone 15 Pro 0883,Smartphone,Apple,118000,4,28,4GB RAM 128GB Storage 6.7-inch AMOLED 5G
+884,OnePlus Nord Buds 2 0884,Headphones,OnePlus,21200,4.2,15,TWS Bluetooth 5.3 Passive Noise Isolation Wireless
+885,OPPO Reno 11 0885,Smartphone,OPPO,36000,3.9,19,16GB RAM 512GB Storage 6.1-inch AMOLED 5G
+886,OPPO F27 Pro 0886,Smartphone,OPPO,26000,4.9,36,6GB RAM 512GB Storage 6.7-inch AMOLED 5G
+887,Realme Realme Narzo 70 0887,Smartphone,Realme,120000,4.6,14,12GB RAM 512GB Storage 6.1-inch AMOLED 5G
+888,Apple iPhone 15 Plus 0888,Smartphone,Apple,107000,4.3,22,8GB RAM 128GB Storage 6.4-inch AMOLED 5G
+889,MSI Thin 15 0889,Laptop,MSI,81000,4.2,7,AMD Ryzen 7 32GB RAM 256GB SSD
+890,OPPO Reno 12 0890,Smartphone,OPPO,99000,4.9,12,8GB RAM 64GB Storage 6.5-inch AMOLED 5G
+891,Apple iPhone 15 Pro 0891,Smartphone,Apple,70000,4.7,35,6GB RAM 64GB Storage 6.1-inch AMOLED 5G
+892,Lenovo IdeaPad 3 0892,Laptop,Lenovo,150000,4.1,28,Apple M2 16GB RAM 256GB SSD
+893,Boat Rockerz 450 0893,Headphones,Boat,21700,4.7,9,Over-Ear Bluetooth 5.4 Adaptive ANC Wireless
+894,Acer Nitro V 0894,Laptop,Acer,80000,4,29,Intel Core Ultra 5 8GB RAM 512GB SSD
+895,JBL Tune 770NC 0895,Headphones,JBL,26700,4,14,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+896,OPPO A3 Pro 0896,Smartphone,OPPO,97000,3.8,28,8GB RAM 128GB Storage 6.5-inch AMOLED 5G
+897,ASUS ROG Strix G16 0897,Laptop,ASUS,179000,4.4,7,Intel Core Ultra 5 16GB RAM 512GB SSD
+898,Realme Buds Air 6 0898,Headphones,Realme,6700,3.7,26,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+899,Apple AirPods Pro 2 0899,Headphones,Apple,42200,4.3,23,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+900,HP 15s 0900,Laptop,HP,111000,4.7,21,Intel Core i7 16GB RAM 256GB SSD
+901,Acer Aspire 5 0901,Laptop,Acer,166000,3.8,18,Intel Core i5 32GB RAM 256GB SSD
+902,ASUS TUF Gaming F15 0902,Laptop,ASUS,55000,4.6,5,AMD Ryzen 7 16GB RAM 512GB SSD
+903,OPPO Reno 11 0903,Smartphone,OPPO,22000,4.2,24,6GB RAM 512GB Storage 6.1-inch AMOLED 5G
+904,OPPO A3 Pro 0904,Smartphone,OPPO,115000,3.9,16,16GB RAM 256GB Storage 6.5-inch AMOLED 5G
+905,Xiaomi Redmi Note 14 0905,Smartphone,Xiaomi,62000,3.8,15,12GB RAM 64GB Storage 6.1-inch AMOLED 5G
+906,ASUS ROG Strix G16 0906,Laptop,ASUS,159000,4.1,31,AMD Ryzen 7 32GB RAM 1024GB SSD
+907,Realme Buds Wireless 3 0907,Headphones,Realme,9700,3.7,12,On-Ear Bluetooth 5.2 ANC Wireless
+908,Apple AirPods 3 0908,Headphones,Apple,10200,4.5,32,Over-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+909,Apple AirPods 3 0909,Headphones,Apple,31200,4.2,12,On-Ear Bluetooth 5.3 ANC Wireless
+910,OnePlus OnePlus Nord CE 4 0910,Smartphone,OnePlus,69000,4.4,17,12GB RAM 512GB Storage 6.1-inch AMOLED 5G
+911,Vivo Vivo V40 0911,Smartphone,Vivo,92000,4.7,32,8GB RAM 64GB Storage 6.1-inch AMOLED 5G
+912,Noise Two Wireless 0912,Headphones,Noise,32200,4.3,44,Over-Ear Bluetooth 5.3 Adaptive ANC Wireless
+913,Noise Buds VS104 0913,Headphones,Noise,2200,4.2,25,TWS Bluetooth 5.2 Passive Noise Isolation Wireless
+914,Lenovo ThinkBook 15 0914,Laptop,Lenovo,123000,4.2,18,AMD Ryzen 5 16GB RAM 256GB SSD
+915,Xiaomi Redmi Note 13 Pro 0915,Smartphone,Xiaomi,41000,4.3,26,12GB RAM 256GB Storage 6.7-inch AMOLED 5G
+916,Noise Buds VS104 0916,Headphones,Noise,25700,4.9,28,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+917,Boat Rockerz 450 0917,Headphones,Boat,6700,4.5,13,On-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+918,OnePlus OnePlus Nord CE 4 0918,Smartphone,OnePlus,50000,4,40,4GB RAM 512GB Storage 6.7-inch AMOLED 5G
+919,Samsung Galaxy A55 0919,Smartphone,Samsung,34000,4.7,37,8GB RAM 256GB Storage 6.4-inch AMOLED 5G
+920,Apple iPhone 15 Pro 0920,Smartphone,Apple,41000,3.8,19,12GB RAM 64GB Storage 6.8-inch AMOLED 5G
+921,Lenovo LOQ 15 0921,Laptop,Lenovo,73000,4.7,32,Intel Core Ultra 5 8GB RAM 1024GB SSD
+922,MSI Modern 14 0922,Laptop,MSI,152000,4.9,29,AMD Ryzen 5 32GB RAM 256GB SSD
+923,Apple iPhone 13 0923,Smartphone,Apple,17000,4.3,15,16GB RAM 64GB Storage 6.8-inch AMOLED 5G
+924,Apple MacBook Air 13 0924,Laptop,Apple,109000,4.5,29,Apple M2 16GB RAM 256GB SSD
+925,MSI Modern 14 0925,Laptop,MSI,120000,4.7,8,Intel Core Ultra 5 8GB RAM 1024GB SSD
+926,Noise Master Buds 0926,Headphones,Noise,22700,4,15,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+927,Realme Realme Narzo 70 0927,Smartphone,Realme,108000,4.6,31,8GB RAM 128GB Storage 6.4-inch AMOLED 5G
+928,Boat Airdopes 141 0928,Headphones,Boat,34200,4.7,28,On-Ear Bluetooth 5.3 Adaptive ANC Wireless
+929,Noise Buds VS104 0929,Headphones,Noise,5200,3.8,25,Over-Ear Bluetooth 5.4 Passive Noise Isolation Wireless
+930,Apple MacBook Air 13 0930,Laptop,Apple,44000,4.5,25,AMD Ryzen 5 16GB RAM 256GB SSD
+931,Samsung Galaxy M55 0931,Smartphone,Samsung,99000,4.5,24,8GB RAM 512GB Storage 6.7-inch AMOLED 5G
+932,Lenovo LOQ 15 0932,Laptop,Lenovo,72000,4.5,19,AMD Ryzen 7 8GB RAM 512GB SSD
+933,Acer Nitro V 0933,Laptop,Acer,138000,4.6,33,Apple M3 32GB RAM 512GB SSD
+934,Samsung Galaxy M55 0934,Smartphone,Samsung,78000,4.9,23,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+935,Xiaomi Xiaomi 14 0935,Smartphone,Xiaomi,113000,4.3,21,6GB RAM 64GB Storage 6.1-inch AMOLED 5G
+936,Xiaomi Poco X6 0936,Smartphone,Xiaomi,119000,4.1,37,16GB RAM 64GB Storage 6.1-inch AMOLED 5G
+937,Samsung Galaxy S24 0937,Smartphone,Samsung,106000,3.7,26,12GB RAM 256GB Storage 6.8-inch AMOLED 5G
+938,Apple AirPods 2 0938,Headphones,Apple,37700,4.5,29,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+939,Dell Inspiron 15 0939,Laptop,Dell,84000,4.7,16,AMD Ryzen 7 16GB RAM 1024GB SSD
+940,Dell G15 0940,Laptop,Dell,50000,4.2,9,Intel Core i5 16GB RAM 256GB SSD
+941,ASUS VivoBook 15 0941,Laptop,ASUS,138000,4.4,21,AMD Ryzen 7 16GB RAM 1024GB SSD
+942,OnePlus Buds Z2 0942,Headphones,OnePlus,32200,4.6,31,TWS Bluetooth 5.3 Adaptive ANC Wireless
+943,Boat Rockerz 450 0943,Headphones,Boat,9200,4.9,37,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+944,JBL Live 660NC 0944,Headphones,JBL,11200,4.8,28,On-Ear Bluetooth 5.3 ANC Wireless
+945,JBL Wave Beam 0945,Headphones,JBL,37700,4,38,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+946,Realme Realme P1 0946,Smartphone,Realme,74000,3.7,14,8GB RAM 256GB Storage 6.5-inch AMOLED 5G
+947,Vivo Vivo V40 0947,Smartphone,Vivo,35000,4.7,36,8GB RAM 256GB Storage 6.4-inch AMOLED 5G
+948,Realme Realme GT 6 0948,Smartphone,Realme,85000,4.1,33,4GB RAM 512GB Storage 6.7-inch AMOLED 5G
+949,Sennheiser Accentum 0949,Headphones,Sennheiser,9700,4.3,34,TWS Bluetooth 5.4 ANC Wireless
+950,Noise Buds VS104 0950,Headphones,Noise,40700,4.5,31,TWS Bluetooth 5.3 ANC Wireless
+951,Vivo Vivo T3 0951,Smartphone,Vivo,106000,4,10,16GB RAM 64GB Storage 6.7-inch AMOLED 5G
+952,Sony WF-1000XM5 0952,Headphones,Sony,42200,4.4,17,TWS Bluetooth 5.4 ANC Wireless
+953,Sony WH-CH720N 0953,Headphones,Sony,8700,4.5,39,On-Ear Bluetooth 5.4 ANC Wireless
+954,Samsung Galaxy A55 0954,Smartphone,Samsung,68000,3.8,39,6GB RAM 128GB Storage 6.8-inch AMOLED 5G
+955,ASUS VivoBook 15 0955,Laptop,ASUS,146000,3.9,5,Intel Core Ultra 5 16GB RAM 256GB SSD
+956,Realme Buds Wireless 3 0956,Headphones,Realme,7200,4.4,23,On-Ear Bluetooth 5.2 ANC Wireless
+957,Xiaomi Redmi Note 14 0957,Smartphone,Xiaomi,98000,3.9,25,6GB RAM 256GB Storage 6.7-inch AMOLED 5G
+958,Samsung Galaxy A55 0958,Smartphone,Samsung,30000,4.2,25,12GB RAM 64GB Storage 6.5-inch AMOLED 5G
+959,Apple iPhone 15 0959,Smartphone,Apple,87000,4,37,6GB RAM 128GB Storage 6.8-inch AMOLED 5G
+960,Sennheiser HD 450BT 0960,Headphones,Sennheiser,30700,4.4,9,On-Ear Bluetooth 5.2 Adaptive ANC Wireless
+961,ASUS VivoBook S14 0961,Laptop,ASUS,60000,4,22,AMD Ryzen 7 8GB RAM 512GB SSD
+962,Dell Vostro 15 0962,Laptop,Dell,56000,4.7,21,AMD Ryzen 5 32GB RAM 512GB SSD
+963,OnePlus OnePlus Nord 4 0963,Smartphone,OnePlus,80000,4.8,40,16GB RAM 128GB Storage 6.4-inch AMOLED 5G
+964,HP 15s 0964,Laptop,HP,77000,3.7,34,Apple M2 32GB RAM 512GB SSD
+965,OnePlus Nord Buds 2 0965,Headphones,OnePlus,41200,4,37,TWS Bluetooth 5.3 Adaptive ANC Wireless
+966,OnePlus OnePlus 12 0966,Smartphone,OnePlus,101000,3.8,13,8GB RAM 64GB Storage 6.7-inch AMOLED 5G
+967,Lenovo ThinkBook 15 0967,Laptop,Lenovo,116000,4.8,35,AMD Ryzen 7 8GB RAM 1024GB SSD
+968,Xiaomi Poco X6 0968,Smartphone,Xiaomi,55000,4,26,8GB RAM 128GB Storage 6.5-inch AMOLED 5G
+969,OnePlus OnePlus 12 0969,Smartphone,OnePlus,13000,4.5,31,16GB RAM 512GB Storage 6.1-inch AMOLED 5G
+970,MSI Cyborg 15 0970,Laptop,MSI,54000,4.3,33,Intel Core i5 16GB RAM 1024GB SSD
+971,Noise Air Buds Pro 0971,Headphones,Noise,23700,4.2,5,On-Ear Bluetooth 5.3 Passive Noise Isolation Wireless
+972,Realme Realme 13 Pro 0972,Smartphone,Realme,107000,3.7,22,12GB RAM 64GB Storage 6.4-inch AMOLED 5G
+973,MSI Katana 15 0973,Laptop,MSI,112000,4.7,12,Apple M3 8GB RAM 256GB SSD
+974,OPPO F27 Pro 0974,Smartphone,OPPO,102000,4.5,18,4GB RAM 256GB Storage 6.7-inch AMOLED 5G
+975,Vivo Vivo V40 0975,Smartphone,Vivo,82000,3.9,16,8GB RAM 512GB Storage 6.4-inch AMOLED 5G
+976,OnePlus OnePlus 12 0976,Smartphone,OnePlus,41000,4.8,22,6GB RAM 256GB Storage 6.8-inch AMOLED 5G
+977,Samsung Galaxy M55 0977,Smartphone,Samsung,70000,3.7,32,16GB RAM 256GB Storage 6.8-inch AMOLED 5G
+978,MSI Modern 14 0978,Laptop,MSI,139000,4,26,Apple M3 16GB RAM 512GB SSD
+979,ASUS TUF Gaming F15 0979,Laptop,ASUS,92000,3.8,34,Apple M2 32GB RAM 256GB SSD
+980,ASUS TUF Gaming F15 0980,Laptop,ASUS,120000,3.8,23,Intel Core i7 8GB RAM 512GB SSD
+981,Apple AirPods Max 0981,Headphones,Apple,11700,4.1,9,Over-Ear Bluetooth 5.2 ANC Wireless
+982,HP Pavilion 15 0982,Laptop,HP,41000,4.4,25,Apple M3 16GB RAM 512GB SSD
+983,OnePlus Buds Pro 2 0983,Headphones,OnePlus,22700,4.7,26,Over-Ear Bluetooth 5.3 ANC Wireless
+984,Dell Inspiron 15 0984,Laptop,Dell,59000,4.5,23,AMD Ryzen 5 32GB RAM 1024GB SSD
+985,Samsung Galaxy S24 0985,Smartphone,Samsung,112000,3.9,33,12GB RAM 256GB Storage 6.1-inch AMOLED 5G
+986,Vivo Vivo V40 0986,Smartphone,Vivo,18000,4.1,29,4GB RAM 64GB Storage 6.8-inch AMOLED 5G
+987,Acer Nitro V 0987,Laptop,Acer,37000,4.2,19,Apple M3 8GB RAM 1024GB SSD
+988,JBL Tune 760NC 0988,Headphones,JBL,30200,4.3,42,TWS Bluetooth 5.4 ANC Wireless
+989,Apple iPhone 15 0989,Smartphone,Apple,113000,4.7,13,16GB RAM 64GB Storage 6.8-inch AMOLED 5G
+990,Lenovo LOQ 15 0990,Laptop,Lenovo,148000,3.9,9,Apple M2 16GB RAM 512GB SSD
+991,Sony WH-CH720N 0991,Headphones,Sony,33700,4.9,27,On-Ear Bluetooth 5.4 Adaptive ANC Wireless
+992,OnePlus OnePlus 12R 0992,Smartphone,OnePlus,55000,4,5,12GB RAM 256GB Storage 6.8-inch AMOLED 5G
+993,MSI Thin 15 0993,Laptop,MSI,178000,4.7,18,AMD Ryzen 7 8GB RAM 256GB SSD
+994,Google Pixel 9 Pro 0994,Smartphone,Google,97000,4.3,34,4GB RAM 256GB Storage 6.4-inch AMOLED 5G
+995,Lenovo LOQ 15 0995,Laptop,Lenovo,119000,3.9,19,AMD Ryzen 5 32GB RAM 512GB SSD
+996,Sony XB910N 0996,Headphones,Sony,15200,4.5,34,Over-Ear Bluetooth 5.2 Passive Noise Isolation Wireless
+997,Dell G15 0997,Laptop,Dell,131000,3.9,10,Apple M3 32GB RAM 512GB SSD
+998,Sony WF-1000XM5 0998,Headphones,Sony,2700,4.4,14,Over-Ear Bluetooth 5.2 Adaptive ANC Wireless
+999,Google Pixel 8a 0999,Smartphone,Google,37000,4,19,4GB RAM 64GB Storage 6.4-inch AMOLED 5G
+1000,Boat Nirvana Ion 1000,Headphones,Boat,13700,3.7,21,TWS Bluetooth 5.2 ANC Wireless
